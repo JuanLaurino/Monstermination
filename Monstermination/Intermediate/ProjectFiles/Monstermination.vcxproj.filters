@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Monstermination.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A5FC4D13-5C93-4B9D-B7A4-9F357E3CB81B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Monstermination.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MonsterminationEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{49AFC1BA-35C0-4D0B-9BA2-21F9ABC00A2F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Monstermination">
+      <UniqueIdentifier>{71D47A51-F0C4-4981-AEA3-D24123CFEB35}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Monstermination\Monstermination.Build.cs">
+      <Filter>Source\Monstermination</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Monstermination\Monstermination.cpp">
+      <Filter>Source\Monstermination</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Monstermination\Monstermination.h">
+      <Filter>Source\Monstermination</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Monstermination\MonsterminationGameModeBase.cpp">
+      <Filter>Source\Monstermination</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Monstermination\MonsterminationGameModeBase.h">
+      <Filter>Source\Monstermination</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
