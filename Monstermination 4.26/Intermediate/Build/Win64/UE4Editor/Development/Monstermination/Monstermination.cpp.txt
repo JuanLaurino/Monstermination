@@ -1,0 +1,2 @@
+C:\monstermination_project\Monstermination 4.26\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Definitions.Monstermination.h
+c:\monstermination_project\monstermination 4.26\source\monstermination\Monstermination.h

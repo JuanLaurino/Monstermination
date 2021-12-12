@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Monstermination",
+			"Path": "C:\\monstermination_project\\Monstermination 4.26\\Source\\Monstermination.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MonsterminationEditor",
+			"Path": "C:\\monstermination_project\\Monstermination 4.26\\Source\\MonsterminationEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
