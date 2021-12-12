@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\Proyectos\\UE4\\MonsterminationProyect\\Monstermination\\Source\\Monstermination\\Monstermination.Build.cs",
-		"D:\\Proyectos\\UE4\\MonsterminationProyect\\Monstermination\\Source\\Monstermination.Target.cs",
-		"D:\\Proyectos\\UE4\\MonsterminationProyect\\Monstermination\\Source\\MonsterminationEditor.Target.cs"
+		"D:\\Proyectos\\UE4\\Monstermination\\Monstermination\\Source\\Monstermination\\Monstermination.Build.cs",
+		"D:\\Proyectos\\UE4\\Monstermination\\Monstermination\\Source\\Monstermination.Target.cs",
+		"D:\\Proyectos\\UE4\\Monstermination\\Monstermination\\Source\\MonsterminationEditor.Target.cs"
 	],
 	"EngineVersion": "4.26.2"
 }
