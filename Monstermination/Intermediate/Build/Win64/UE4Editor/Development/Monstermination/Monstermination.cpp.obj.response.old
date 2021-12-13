@@ -31,8 +31,8 @@
 /wd4244
 /wd4838
 /I .
-/I D:\Proyectos\UE4\MonsterminationProyect\Monstermination\Intermediate\Build\Win64\UE4Editor\Inc\Monstermination
-/I D:\Proyectos\UE4\MonsterminationProyect\Monstermination\Source
+/I D:\Proyectos\UE4\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Inc\Monstermination
+/I D:\Proyectos\UE4\Monstermination\Monstermination\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -261,12 +261,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"D:\Proyectos\UE4\MonsterminationProyect\Monstermination\Intermediate\Build\Win64\MonsterminationEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\Proyectos\UE4\MonsterminationProyect\Monstermination\Intermediate\Build\Win64\MonsterminationEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\Proyectos\UE4\MonsterminationProyect\Monstermination\Intermediate\Build\Win64\MonsterminationEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\Proyectos\UE4\MonsterminationProyect\Monstermination\Source\Monstermination\Monstermination.cpp"
-/FI"D:\Proyectos\UE4\MonsterminationProyect\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Definitions.Monstermination.h"
-/Fo"D:\Proyectos\UE4\MonsterminationProyect\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Monstermination.cpp.obj"
+/FI"D:\Proyectos\UE4\Monstermination\Monstermination\Intermediate\Build\Win64\MonsterminationEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"D:\Proyectos\UE4\Monstermination\Monstermination\Intermediate\Build\Win64\MonsterminationEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\Proyectos\UE4\Monstermination\Monstermination\Intermediate\Build\Win64\MonsterminationEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\Proyectos\UE4\Monstermination\Monstermination\Source\Monstermination\Monstermination.cpp"
+/FI"D:\Proyectos\UE4\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Definitions.Monstermination.h"
+/Fo"D:\Proyectos\UE4\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Monstermination.cpp.obj"
 /TP
 /GR-
 /W4
