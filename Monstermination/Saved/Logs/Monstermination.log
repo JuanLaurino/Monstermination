@@ -1413,6 +1413,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.13-16.31.55:379][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuMultiplayer" FILE="D:/juanxd/Monstermination/Monstermination/Saved/Autosaves/Game/UI/MenuMultiplayer_Auto3.uasset" SILENT=false AUTOSAVING=true
 [2021.12.13-16.31.55:394][363]LogSavePackage: Moving 'D:/juanxd/Monstermination/Monstermination/Saved/MenuMultiplayer_Auto34034D0AF414E7C258E2A9EB121B877F6.tmp' to 'D:/juanxd/Monstermination/Monstermination/Saved/Autosaves/Game/UI/MenuMultiplayer_Auto3.uasset'
 [2021.12.13-16.31.55:395][363]LogFileHelpers: Auto-saving content packages took 0.016
+<<<<<<< Updated upstream
 [2021.12.13-16.36.29:067][357]BlueprintLog: New page: Compile MenuMultiplayer
 [2021.12.13-16.36.29:096][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
 [2021.12.13-16.36.30:256][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuMultiplayer" FILE="D:/juanxd/Monstermination/Monstermination/Content/UI/MenuMultiplayer.uasset" SILENT=true
@@ -2003,3 +2004,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.13-16.36.47:792][760]LogD3D11RHI: CleanupD3DDevice
 [2021.12.13-16.36.47:804][760]LogExit: Exiting.
 [2021.12.13-16.36.47:819][760]Log file closed, 12/13/21 17:36:47
+=======
+>>>>>>> Stashed changes
