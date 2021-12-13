@@ -6,6 +6,7 @@
 /NAME:"UE4Editor-Monstermination.dll"
 /IGNORE:4221
 /NODEFAULTLIB
+<<<<<<< HEAD
 "C:\Users\ivaca\OneDrive\Escritorio\TFG\Monstermination\Monstermination\Intermediate\Build\Win64\MonsterminationEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "C:\Users\ivaca\OneDrive\Escritorio\TFG\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Monstermination.cpp.obj"
 "C:\Users\ivaca\OneDrive\Escritorio\TFG\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\MonsterminationGameModeBase.cpp.obj"
@@ -13,4 +14,13 @@
 "C:\Users\ivaca\OneDrive\Escritorio\TFG\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\MonsterminationGameModeBase.gen.cpp.obj"
 "C:\Users\ivaca\OneDrive\Escritorio\TFG\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Default.rc2.res"
 /OUT:"C:\Users\ivaca\OneDrive\Escritorio\TFG\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\UE4Editor-Monstermination.lib"
+=======
+"D:\Proyectos\UE4\Monstermination\Monstermination\Intermediate\Build\Win64\MonsterminationEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Proyectos\UE4\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Monstermination.cpp.obj"
+"D:\Proyectos\UE4\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\MonsterminationGameModeBase.cpp.obj"
+"D:\Proyectos\UE4\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Monstermination.init.gen.cpp.obj"
+"D:\Proyectos\UE4\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\MonsterminationGameModeBase.gen.cpp.obj"
+"D:\Proyectos\UE4\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Default.rc2.res"
+/OUT:"D:\Proyectos\UE4\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\UE4Editor-Monstermination.lib"
+>>>>>>> master
 /INCLUDE:IMPLEMENT_MODULE_Monstermination

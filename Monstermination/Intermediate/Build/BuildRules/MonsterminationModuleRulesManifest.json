@@ -1,8 +1,14 @@
 {
 	"SourceFiles": [
+<<<<<<< HEAD
 		"C:\\Users\\ivaca\\OneDrive\\Escritorio\\TFG\\Monstermination\\Monstermination\\Source\\Monstermination\\Monstermination.Build.cs",
 		"C:\\Users\\ivaca\\OneDrive\\Escritorio\\TFG\\Monstermination\\Monstermination\\Source\\Monstermination.Target.cs",
 		"C:\\Users\\ivaca\\OneDrive\\Escritorio\\TFG\\Monstermination\\Monstermination\\Source\\MonsterminationEditor.Target.cs"
+=======
+		"D:\\Proyectos\\UE4\\Monstermination\\Monstermination\\Source\\Monstermination\\Monstermination.Build.cs",
+		"D:\\Proyectos\\UE4\\Monstermination\\Monstermination\\Source\\Monstermination.Target.cs",
+		"D:\\Proyectos\\UE4\\Monstermination\\Monstermination\\Source\\MonsterminationEditor.Target.cs"
+>>>>>>> master
 	],
 	"EngineVersion": "4.26.2"
 }

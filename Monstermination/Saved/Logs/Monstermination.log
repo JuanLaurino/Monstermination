@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿Log file open, 12/12/21 21:28:22
 LogInit: LLM is enabled
 LogInit: LLM CsvWriter: off TraceWriter: off
@@ -802,3 +803,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.12-20.28.46:992][  7]SourceControl: fatal: C:/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/ivaca/OneDrive/Escritorio/TFG/Monstermination'
 [2021.12.12-20.28.46:992][  7]SourceControl: fatal: C:/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/ivaca/OneDrive/Escritorio/TFG/Monstermination'
 [2021.12.12-20.28.47:108][  7]EditorErrors: Warning: No assets to check in!
+=======
+>>>>>>> master
