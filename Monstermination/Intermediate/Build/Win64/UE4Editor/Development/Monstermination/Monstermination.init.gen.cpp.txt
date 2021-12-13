@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-C:\Users\ivaca\OneDrive\Escritorio\TFG\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Definitions.Monstermination.h
-C:\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-=======
-D:\Proyectos\UE4\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Definitions.Monstermination.h
-D:\Apps\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Apps\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
->>>>>>> master
+D:\juanxd\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Definitions.Monstermination.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

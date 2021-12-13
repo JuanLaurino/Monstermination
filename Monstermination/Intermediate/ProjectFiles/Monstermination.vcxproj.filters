@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Monstermination.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{F9777438-205B-4DF0-A025-CBEF9F3E99D9}</UniqueIdentifier>
+      <UniqueIdentifier>{0A30507C-4A0E-40E8-B8B0-F7CC4321DCD3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Monstermination.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{FF7A94A7-E57F-444A-962B-88EEF4FE0A56}</UniqueIdentifier>
+      <UniqueIdentifier>{DB22C53D-9304-4FFF-96D7-9327BFA8AA2C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Monstermination">
-      <UniqueIdentifier>{719D583A-F2C4-4620-9B64-B197CE0D00BD}</UniqueIdentifier>
+      <UniqueIdentifier>{0A524AA4-9EB9-4C2C-BE6C-7CA6FAE925F7}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Monstermination\Monstermination.Build.cs">
       <Filter>Source\Monstermination</Filter>

@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-C:\Users\ivaca\OneDrive\Escritorio\TFG\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Definitions.Monstermination.h
-C:\Users\ivaca\OneDrive\Escritorio\TFG\Monstermination\Monstermination\Source\Monstermination\Monstermination.h
-=======
-D:\Proyectos\UE4\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Definitions.Monstermination.h
-D:\Proyectos\UE4\Monstermination\Monstermination\Source\Monstermination\Monstermination.h
->>>>>>> master
+D:\juanxd\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Definitions.Monstermination.h
+D:\juanxd\Monstermination\Monstermination\Source\Monstermination\Monstermination.h
