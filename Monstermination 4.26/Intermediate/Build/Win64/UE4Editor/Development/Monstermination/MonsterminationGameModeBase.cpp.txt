@@ -1,0 +1,7 @@
+C:\monstermination_project\Monstermination 4.26\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Definitions.Monstermination.h
+c:\monstermination_project\monstermination 4.26\source\monstermination\MonsterminationGameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\monstermination_project\Monstermination 4.26\Intermediate\Build\Win64\UE4Editor\Inc\Monstermination\MonsterminationGameModeBase.generated.h
