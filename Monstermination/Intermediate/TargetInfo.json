@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Monstermination",
-			"Path": "D:\\Proyectos\\UE4\\Monstermination\\Monstermination\\Source\\Monstermination.Target.cs",
+			"Path": "F:\\DAM-Viod\\2do\\TFG\\Monstermination\\Monstermination\\Source\\Monstermination.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "MonsterminationEditor",
-			"Path": "D:\\Proyectos\\UE4\\Monstermination\\Monstermination\\Source\\MonsterminationEditor.Target.cs",
+			"Path": "F:\\DAM-Viod\\2do\\TFG\\Monstermination\\Monstermination\\Source\\MonsterminationEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

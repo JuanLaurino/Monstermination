@@ -1,7 +1,7 @@
-D:\Proyectos\UE4\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Definitions.Monstermination.h
-D:\Proyectos\UE4\Monstermination\Monstermination\Source\Monstermination\MonsterminationGameModeBase.h
-D:\Apps\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-D:\Apps\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-D:\Apps\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-D:\Apps\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-D:\Proyectos\UE4\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Inc\Monstermination\MonsterminationGameModeBase.generated.h
+F:\DAM-Viod\2do\TFG\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Definitions.Monstermination.h
+F:\DAM-Viod\2do\TFG\Monstermination\Monstermination\Source\Monstermination\MonsterminationGameModeBase.h
+C:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+F:\DAM-Viod\2do\TFG\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Inc\Monstermination\MonsterminationGameModeBase.generated.h
