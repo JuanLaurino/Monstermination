@@ -816,3 +816,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.28-16.26.06:056][399]AssetCheck: New page: Asset Save: Master
 [2021.12.28-16.26.06:056][399]LogContentValidation: Display: Validating SoundClass /Game/Sound/Master.Master
 [2021.12.28-16.26.08:885][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.12.28-16.28.17:339][385]LogAssetEditorSubsystem: Opening Asset editor for SoundMix /Game/Sound/SoundMix.SoundMix
+[2021.12.28-16.32.24:109][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsMenu" FILE="F:/DAM-Viod/2do/TFG/Monstermination/Monstermination/Content/UI/OptionsMenu.uasset" SILENT=true
+[2021.12.28-16.32.24:150][944]LogSavePackage: Moving 'F:/DAM-Viod/2do/TFG/Monstermination/Monstermination/Saved/OptionsMenu64F3D408400B93A64F948EB758F4348A.tmp' to 'F:/DAM-Viod/2do/TFG/Monstermination/Monstermination/Content/UI/OptionsMenu.uasset'
+[2021.12.28-16.32.24:159][944]AssetCheck: New page: Asset Save: OptionsMenu
+[2021.12.28-16.32.24:159][944]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsMenu.OptionsMenu
+[2021.12.28-16.33.18:200][427]BlueprintLog: New page: Compile OptionsMenu
+[2021.12.28-16.33.18:234][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.12.28-16.33.19:062][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsMenu" FILE="F:/DAM-Viod/2do/TFG/Monstermination/Monstermination/Content/UI/OptionsMenu.uasset" SILENT=true
+[2021.12.28-16.33.19:104][472]LogSavePackage: Moving 'F:/DAM-Viod/2do/TFG/Monstermination/Monstermination/Saved/OptionsMenu088C792B4D70A09F86AC5D8685FDAF88.tmp' to 'F:/DAM-Viod/2do/TFG/Monstermination/Monstermination/Content/UI/OptionsMenu.uasset'
+[2021.12.28-16.33.19:115][472]AssetCheck: New page: Asset Save: OptionsMenu
+[2021.12.28-16.33.19:115][472]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsMenu.OptionsMenu
+[2021.12.28-16.33.20:991][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Master" FILE="F:/DAM-Viod/2do/TFG/Monstermination/Monstermination/Content/Sound/Master.uasset" SILENT=true
+[2021.12.28-16.33.20:992][690]LogSavePackage: Moving 'F:/DAM-Viod/2do/TFG/Monstermination/Monstermination/Saved/Master6CC85179464A92BD48A0F3BC4F914A21.tmp' to 'F:/DAM-Viod/2do/TFG/Monstermination/Monstermination/Content/Sound/Master.uasset'
+[2021.12.28-16.33.21:001][690]AssetCheck: New page: Asset Save: Master
+[2021.12.28-16.33.21:001][690]LogContentValidation: Display: Validating SoundClass /Game/Sound/Master.Master
+[2021.12.28-16.33.22:712][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
