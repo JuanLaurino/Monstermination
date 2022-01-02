@@ -1,0 +1,1359 @@
+﻿Log file open, 01/02/22 16:22:57
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Monstermination
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.413638
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.01.02-15.22.58:461][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.01.02-15.22.58:461][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.01.02-15.22.58:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Engine.ini]
+[2022.01.02-15.22.58:461][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.01.02-15.22.58:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Engine.ini]
+[2022.01.02-15.22.58:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Engine.ini]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Engine.ini]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.01.02-15.22.58:462][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Engine.ini]
+[2022.01.02-15.22.58:462][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Engine.ini]
+[2022.01.02-15.22.58:468][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Scalability.ini]
+[2022.01.02-15.22.58:468][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.02-15.22.58:468][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.02-15.22.58:468][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Scalability.ini]
+[2022.01.02-15.22.58:468][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.02-15.22.58:468][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Scalability.ini]
+[2022.01.02-15.22.58:468][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.02-15.22.58:468][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.02-15.22.58:468][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.02-15.22.58:468][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.02-15.22.58:468][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.02-15.22.58:468][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.02-15.22.58:468][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.02-15.22.58:468][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.02-15.22.58:468][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.02-15.22.58:468][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.02-15.22.58:468][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.02-15.22.58:468][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.02-15.22.58:468][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.02-15.22.58:468][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.02-15.22.58:468][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.02-15.22.58:468][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.02-15.22.58:468][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.02-15.22.58:468][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Scalability.ini]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Scalability.ini]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Scalability.ini]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Scalability.ini]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Scalability.ini]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.02-15.22.58:469][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.02-15.22.58:469][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.02-15.22.58:469][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.01.02-15.22.58:469][  0]LogHAL: Display: Platform has ~ 16 GB [16841785344 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.02-15.22.58:470][  0]LogInit: Going up to parent DeviceProfile []
+[2022.01.02-15.22.58:470][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Scalability.ini]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Scalability.ini]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Scalability.ini]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Scalability.ini]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.02-15.22.58:470][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Scalability.ini]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Scalability.ini]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Scalability.ini]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Scalability.ini]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.02-15.22.58:471][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.01.02-15.22.58:472][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.01.02-15.22.58:472][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.01.02-15.22.58:472][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.01.02-15.22.58:472][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Engine.ini]
+[2022.01.02-15.22.58:472][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Config/Windows/Editor.ini]
+[2022.01.02-15.22.58:472][  0]LogInit: Computer: LAPTOP-FQ6RRGO7
+[2022.01.02-15.22.58:472][  0]LogInit: User: mirei
+[2022.01.02-15.22.58:472][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.01.02-15.22.58:472][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.01.02-15.22.58:472][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2022.01.02-15.22.58:472][  0]LogMemory: Platform Memory Stats for Windows
+[2022.01.02-15.22.58:472][  0]LogMemory: Process Physical Memory: 130.55 MB used, 130.56 MB peak
+[2022.01.02-15.22.58:472][  0]LogMemory: Process Virtual Memory: 109.00 MB used, 109.00 MB peak
+[2022.01.02-15.22.58:472][  0]LogMemory: Physical Memory: 9538.09 MB used,  6523.49 MB free, 16061.58 MB total
+[2022.01.02-15.22.58:472][  0]LogMemory: Virtual Memory: 134213280.00 MB used,  4448.07 MB free, 134217728.00 MB total
+[2022.01.02-15.22.58:477][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.01.02-15.22.58:525][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.01.02-15.22.58:526][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.01.02-15.22.58:526][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2022.01.02-15.22.58:785][  0]LogInit: Setting process to per monitor DPI aware
+[2022.01.02-15.22.58:800][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.02-15.22.58:818][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.01.02-15.22.58:818][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.01.02-15.22.58:992][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.02-15.22.58:992][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.01.02-15.22.58:992][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.01.02-15.22.58:992][  0]LogD3D11RHI: D3D11 adapters:
+[2022.01.02-15.22.59:110][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Laptop GPU' (Feature Level 11_0)
+[2022.01.02-15.22.59:110][  0]LogD3D11RHI:       6023/0/8030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.01.02-15.22.59:141][  0]LogD3D11RHI:    1. 'Intel(R) Iris(R) Xe Graphics' (Feature Level 11_0)
+[2022.01.02-15.22.59:141][  0]LogD3D11RHI:       128/0/8030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.01.02-15.22.59:144][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.01.02-15.22.59:144][  0]LogD3D11RHI:       0/0/8030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.01.02-15.22.59:144][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.01.02-15.22.59:152][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.01.02-15.22.59:152][  0]LogD3D11RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2022.01.02-15.22.59:152][  0]LogWindows: EnumDisplayDevices:
+[2022.01.02-15.22.59:153][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1)
+[2022.01.02-15.22.59:153][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2022.01.02-15.22.59:153][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2022.01.02-15.22.59:153][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2022.01.02-15.22.59:154][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2022.01.02-15.22.59:154][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.01.02-15.22.59:154][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.01.02-15.22.59:154][  0]LogD3D11RHI:   Driver Version: 466.83 (internal:27.21.14.6683, unified:466.83)
+[2022.01.02-15.22.59:154][  0]LogD3D11RHI:      Driver Date: 6-16-2021
+[2022.01.02-15.22.59:154][  0]LogRHI: Texture pool is 4216 MB (70% of 6023 MB)
+[2022.01.02-15.22.59:246][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.01.02-15.22.59:246][  0]LogD3D11RHI: Async texture creation enabled
+[2022.01.02-15.22.59:246][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.01.02-15.22.59:266][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.01.02-15.22.59:268][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.01.02-15.22.59:634][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.01.02-15.22.59:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.01.02-15.22.59:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.01.02-15.22.59:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.01.02-15.22.59:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.01.02-15.22.59:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.01.02-15.22.59:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.01.02-15.22.59:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.01.02-15.22.59:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.01.02-15.22.59:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.01.02-15.22.59:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.01.02-15.22.59:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.01.02-15.22.59:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.01.02-15.22.59:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.01.02-15.22.59:732][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.01.02-15.22.59:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.01.02-15.22.59:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.01.02-15.22.59:767][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.01.02-15.22.59:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.01.02-15.22.59:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.01.02-15.22.59:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.01.02-15.22.59:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.01.02-15.22.59:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.01.02-15.22.59:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.01.02-15.22.59:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.01.02-15.22.59:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.01.02-15.22.59:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.01.02-15.22.59:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.01.02-15.22.59:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.01.02-15.22.59:913][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.02-15.22.59:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.02-15.22.59:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.02-15.22.59:936][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.01.02-15.22.59:946][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.02-15.23.00:012][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.01.02-15.23.00:012][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Intermediate/Shaders/WorkingDirectory/25372/).
+[2022.01.02-15.23.00:013][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mirei/AppData/Local/Temp/UnrealShaderWorkingDir/EF40A51A425A78D377CE2E8E03F214E9/'.
+[2022.01.02-15.23.00:013][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.01.02-15.23.00:013][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.02-15.23.01:007][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.02-15.23.01:075][  0]LogDerivedDataCache: Loaded boot cache 0.07s 77MB C:/Users/mirei/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.01.02-15.23.01:075][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mirei/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.01.02-15.23.01:075][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.01.02-15.23.01:075][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.01.02-15.23.01:075][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.02-15.23.01:075][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.01.02-15.23.01:098][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.02-15.23.01:098][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.02-15.23.01:098][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.01.02-15.23.01:114][  0]LogDerivedDataCache: Speed tests for C:/Users/mirei/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.01.02-15.23.01:114][  0]LogDerivedDataCache: Display: Performance to C:/Users/mirei/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=177.70MBs, RandomWriteSpeed=92.42MBs. Assigned SpeedClass 'Local'
+[2022.01.02-15.23.01:115][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mirei/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.01.02-15.23.01:116][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.01.02-15.23.01:116][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.01.02-15.23.01:196][  0]LogSlate: Using FreeType 2.10.0
+[2022.01.02-15.23.01:196][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.01.02-15.23.01:221][  0]LogAssetRegistry: FAssetRegistry took 0.0037 seconds to start up
+[2022.01.02-15.23.01:497][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.02-15.23.01:497][  0]LogInit: Active device profile: [000001EF61D4B100][000001EF55E74900 49] Windows
+[2022.01.02-15.23.01:497][  0]LogInit: Profiles: [000001EF61D4B100][000001EF55E74900 49] Windows, [000001EF61CC5200][000001EF610B2A80 49] WindowsNoEditor, [000001EF61D49300][000001EF610B6C00 49] WindowsServer, [000001EF61CC6A00][000001EF610BAD80 49] WindowsClient, [000001EF61D4AB00][000001EF610C2F00 49] IOS, [000001EF61CC5700][000001EF610C7080 49] iPadAir, [000001EF61D49800][000001EF610CB200 49] iPadAir2, [000001EF61B08700][000001EF610DB4C0 49] IPadPro, [000001EF61B08800][000001EF610D7500 49] iPadAir3, [000001EF61D4B200][000001EF55E79640 49] iPadAir4, [000001EF61B0AF00][000001EF610EB780 49] iPadMini2, [000001EF61D49200][000001EF610EF8C0 49] iPadMini3, [000001EF61B08900][000001EF610F3A00 49] iPadMini4, [000001EF61D4AD00][000001EF610FBB80 49] iPadMini5, [000001EF61AEFF00][000001EF61102180 49] iPhone6, [000001EF61AEFE00][000001EF610FE1C0 49] iPodTouch6, [000001EF61CC7A00][000001EF61122480 49] iPhone7, [000001EF61B0B100][000001EF6111E4C0 49] iPodTouch7, [000001EF61AED500][000001EF61126640 49] iPhone5S, [000001EF61B0A000][000001EF6112A7C0 49] iPhone6Plus, [000001EF61AEE800][000001EF6112E940 49] iPhone6S, [000001EF61B0AA00][000001EF61152AC0 49] iPhone6SPlus, [000001EF61AED400][000001EF61156C40 49] iPhone7Plus, [000001EF61B0A900][000001EF6115ADC0 49] iPhoneSE, [000001EF61AEEA00][000001EF6115EF40 49] iPhone8, [000001EF61B0AE00][000001EF611630C0 49] iPhone8Plus, [000001EF61AEF500][000001EF61167240 49] iPhoneX, [000001EF61B0B300][000001EF6116B3C0 49] iPhoneXS, [000001EF61AEFD00][000001EF6116F540 49] iPhoneXSMax, [000001EF61B0AC00][000001EF610F7680 49] iPhoneXR, [000001EF61AED100][000001EF611737C0 49] iPhone11, [000001EF61B09A00][000001EF61177900 49] iPhone11Pro, [000001EF61AEE200][000001EF6117BA40 49] iPhone11ProMax, [000001EF61B09100][000001EF621C1BC0 49] iPhoneSE2, [000001EF61AEE100][000001EF621C5D40 49] iPhone12Mini, [000001EF61B09D00][000001EF621C8200 49] iPhone12, [000001EF61AEED00][000001EF621CC380 49] iPhone12Pro, [000001EF61B0A400][000001EF621D0500 49] iPhone12ProMax, [000001EF61AED800][000001EF621D4680 49] iPadPro105, [000001EF61B0BF00][000001EF621D8800 49] iPadPro129, [000001EF61AEDB00][000001EF621DC980 49] iPadPro97, [000001EF61B09400][000001EF621E0B00 49] iPadPro2_129, [000001EF61AEEF00][000001EF621E4C80 49] iPad5, [000001EF61B0B800][000001EF621E8E00 49] iPad6, [000001EF61AEC600][000001EF621ECF80 49] iPad7, [000001EF61B0A600][000001EF621F1100 49] iPad8, [000001EF61AEF300][000001EF621F5280 49] iPadPro11, [000001EF61B0BC00][000001EF621F9400 49] iPadPro2_11, [000001EF61AED700][000001EF621FD580 49] iPadPro3_129, [000001EF61B08F00][000001EF62201700 49] iPadPro4_129, [000001EF61AEF400][000001EF621BD840 49] AppleTV, [000001EF61B09300][000001EF62205980 49] AppleTV4K, [000001EF61AED300][000001EF62209AC0 49] TVOS, [000001EF61B09F00][000001EF62211C40 49] Mac, [000001EF61AEC900][000001EF62214100 49] MacClient, [000001EF61B08B00][000001EF62218280 49] MacNoEditor, [000001EF61E4C300][000001EF6221C400 49] MacServer, [000001EF61CC4D00][000001EF62220580 49] Linux, [000001EF61E4D100][000001EF62224700 49] LinuxAArch64, [000001EF61CC5A00][000001EF62228880 49] LinuxNoEditor, [000001EF61E4D000][000001EF6222CA00 49] LinuxAArch64NoEditor, [000001EF61CC5300][000001EF62230B80 49] LinuxClient, [000001EF61E4C600][000001EF62234D00 49] LinuxAArch64Client, [000001EF61CC4400][000001EF62238E80 49] LinuxServer, [000001EF61E4CD00][000001EF6223D000 49] LinuxAArch64Server, [000001EF61CC5400][000001EF62241180 49] Android, [000001EF61AEE900][000001EF62245300 49] Android_Low, [000001EF61CC5900][000001EF62249480 49] Android_Mid, [000001EF61AEF900][000001EF6224D600 49] Android_High, [000001EF61CC4E00][000001EF62251780 49] Android_Default, [000001EF61AEEB00][000001EF6220D8C0 49] Android_Adreno4xx, [000001EF61CC6E00][000001EF62255A00 49] Android_Adreno5xx_Low, [000001EF61AEE000][000001EF62259B40 49] Android_Adreno5xx, [000001EF61CC6B00][000001EF62261CC0 49] Android_Adreno6xx, [000001EF61AEDA00][000001EF62264180 49] Android_Adreno6xx_Vulkan, [000001EF61CC5500][000001EF62268300 49] Android_Mali_T6xx, [000001EF61AEDD00][000001EF6226C480 49] Android_Mali_T7xx, [000001EF61CC6800][000001EF62270600 49] Android_Mali_T8xx, [000001EF61AEC400][000001EF62274780 49] Android_Mali_G71, [000001EF61CC7100][000001EF62278900 49] Android_Mali_G72, [000001EF61AED200][000001EF6227CA80 49] Android_Mali_G72_Vulkan, [000001EF61CC7300][000001EF62280C00 49] Android_Mali_G76, [000001EF61AEC300][000001EF62284D80 49] Android_Mali_G76_Vulkan, [000001EF61CC5D00][000001EF62288F00 49] Android_Mali_G77, [000001EF61AEEE00][000001EF6228D080 49] Android_Mali_G77_Vulkan, [000001EF61CC7E00][000001EF62291200 49] Android_Vulkan_SM5, [000001EF61AEE500][000001EF62295380 49] Android_PowerVR_G6xxx, [000001EF61CC4300][000001EF62299500 49] Android_PowerVR_GT7xxx, [000001EF61AEE400][000001EF6229D680 49] Android_PowerVR_GE8xxx, [000001EF61CC7600][000001EF622A1800 49] Android_PowerVR_GM9xxx, [000001EF61AECA00][000001EF6225D940 49] Android_PowerVR_GM9xxx_Vulkan, [000001EF61CC4100][000001EF622A5A80 49] Android_TegraK1, [000001EF61AEC800][000001EF622A9BC0 49] Android_Unknown_Vulkan, [000001EF61CC5800][000001EF622ADD00 49] Lumin, [000001EF61B09800][000001EF622B41C0 49] Lumin_Desktop, [000001EF61D49600][000001EF622B8340 49] HoloLens, 
+[2022.01.02-15.23.01:619][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.01.02-15.23.01:619][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.01.02-15.23.01:619][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.01.02-15.23.01:619][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.01.02-15.23.01:619][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.01.02-15.23.01:637][  0]LogNetVersion: Monstermination 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1849785004)
+[2022.01.02-15.23.02:153][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.01.02-15.23.02:230][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.076375 seconds
+[2022.01.02-15.23.02:237][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.01.02-15.23.02:237][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.01.02-15.23.02:237][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.01.02-15.23.02:726][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.01.02-15.23.02:731][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.01.02-15.23.02:917][  0]SourceControl: Source control is disabled
+[2022.01.02-15.23.03:547][  0]LogUProjectInfo: Found projects:
+[2022.01.02-15.23.03:761][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.01.02-15.23.03:793][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.02-15.23.03:793][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.02-15.23.03:854][  0]LogCollectionManager: Loaded 0 collections in 0.002622 seconds
+[2022.01.02-15.23.03:888][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Collections/' took 0.00s
+[2022.01.02-15.23.03:888][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/Developers/mirei/Collections/' took 0.00s
+[2022.01.02-15.23.03:888][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/Collections/' took 0.00s
+[2022.01.02-15.23.03:888][  0]LogOcInput: OculusInput pre-init called
+[2022.01.02-15.23.03:904][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.01.02-15.23.03:904][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.01.02-15.23.03:968][  0]LogEngine: Initializing Engine...
+[2022.01.02-15.23.03:970][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.02-15.23.03:970][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.01.02-15.23.03:971][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.01.02-15.23.04:107][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.01.02-15.23.04:114][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.01.02-15.23.04:131][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.01.02-15.23.04:138][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.01.02-15.23.04:138][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.01.02-15.23.04:139][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.02-15.23.04:139][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.02-15.23.04:139][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.02-15.23.04:139][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.02-15.23.04:139][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.02-15.23.04:139][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.02-15.23.04:139][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.02-15.23.04:139][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.02-15.23.04:139][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.02-15.23.04:139][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.02-15.23.04:160][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.02-15.23.04:160][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.01.02-15.23.04:393][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.01.02-15.23.04:397][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.02-15.23.04:400][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.02-15.23.04:400][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.02-15.23.04:401][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.02-15.23.04:401][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.02-15.23.04:401][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.02-15.23.04:403][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.02-15.23.04:403][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.02-15.23.04:403][  0]LogInit: FAudioDevice initialized.
+[2022.01.02-15.23.04:403][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.01.02-15.23.04:403][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.01.02-15.23.04:474][  0]LogDerivedDataCache: Saved boot cache 0.07s 77MB C:/Users/mirei/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.01.02-15.23.04:476][  0]LogInit: Texture streaming: Enabled
+[2022.01.02-15.23.04:496][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.01.02-15.23.04:502][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.01.02-15.23.04:502][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.01.02-15.23.04:508][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.01.02-15.23.04:550][  0]LogInit: Transaction tracking system initialized
+[2022.01.02-15.23.04:584][  0]BlueprintLog: New page: Editor Load
+[2022.01.02-15.23.04:689][  0]LocalizationService: Localization service is disabled
+[2022.01.02-15.23.04:726][  0]TimingProfiler: Initialize
+[2022.01.02-15.23.04:726][  0]TimingProfiler: OnSessionChanged
+[2022.01.02-15.23.04:726][  0]LoadingProfiler: Initialize
+[2022.01.02-15.23.04:726][  0]LoadingProfiler: OnSessionChanged
+[2022.01.02-15.23.04:726][  0]NetworkingProfiler: Initialize
+[2022.01.02-15.23.04:727][  0]NetworkingProfiler: OnSessionChanged
+[2022.01.02-15.23.04:727][  0]MemoryProfiler: Initialize
+[2022.01.02-15.23.04:727][  0]MemoryProfiler: OnSessionChanged
+[2022.01.02-15.23.04:925][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.01.02-15.23.04:925][  0]LogCook: Display: Mobile HDR setting 1
+[2022.01.02-15.23.05:141][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/' took 0.00s
+[2022.01.02-15.23.05:336][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.01.02-15.23.05:344][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.118
+[2022.01.02-15.23.05:344][  0]Cmd: MAP LOAD FILE="../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/Levels/LevelMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.02-15.23.05:345][  0]LightingResults: New page: Lighting Build
+[2022.01.02-15.23.05:345][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.01.02-15.23.05:345][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.02-15.23.05:346][  0]MapCheck: New page: Map Check
+[2022.01.02-15.23.05:347][  0]LightingResults: New page: Lighting Build
+[2022.01.02-15.23.05:357][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.01.02-15.23.05:542][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelMenu'.
+[2022.01.02-15.23.05:543][  0]LogAIModule: Creating AISystem for world LevelMenu
+[2022.01.02-15.23.05:546][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.02-15.23.05:556][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.01.02-15.23.05:556][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.02-15.23.05:556][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.209ms to complete.
+[2022.01.02-15.23.05:557][  0]LogFileHelpers: Loading map 'LevelMenu' took 0.212
+[2022.01.02-15.23.05:559][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.333
+[2022.01.02-15.23.05:756][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.02-15.23.05:764][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.02-15.23.05:772][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.02-15.23.05:780][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.02-15.23.05:818][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0110 seconds. Added 3602 classes and 861 folders.
+[2022.01.02-15.23.05:825][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.01.02-15.23.05:838][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.02-15.23.05:838][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.05:838][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.02-15.23.05:838][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.01.02-15.23.05:849][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.02-15.23.05:849][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.05:849][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.02-15.23.05:849][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.01.02-15.23.05:858][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.01.02-15.23.05:859][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.05:859][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.01.02-15.23.05:859][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.01.02-15.23.05:867][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.02-15.23.05:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.05:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.02-15.23.05:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.01.02-15.23.05:877][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.02-15.23.05:877][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.05:877][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.02-15.23.05:877][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.01.02-15.23.05:884][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.02-15.23.05:884][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.05:884][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.02-15.23.05:884][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.01.02-15.23.05:893][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.02-15.23.05:893][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.05:893][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.02-15.23.05:893][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.01.02-15.23.05:900][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.02-15.23.05:900][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.05:900][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.02-15.23.05:900][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.01.02-15.23.05:913][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.02-15.23.05:913][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.05:913][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.02-15.23.05:913][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2022.01.02-15.23.05:922][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.02-15.23.05:922][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.05:922][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.02-15.23.05:923][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2022.01.02-15.23.05:929][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.02-15.23.05:929][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.05:929][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.02-15.23.05:929][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2022.01.02-15.23.05:940][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.02-15.23.05:940][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.05:940][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.02-15.23.05:940][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2022.01.02-15.23.05:947][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.02-15.23.05:947][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.05:947][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.02-15.23.05:947][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2022.01.02-15.23.05:956][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.02-15.23.05:956][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.05:956][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.02-15.23.05:956][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2022.01.02-15.23.05:963][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.02-15.23.05:963][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.05:963][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.02-15.23.05:963][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2022.01.02-15.23.05:970][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.02-15.23.05:970][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.05:970][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.02-15.23.05:970][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2022.01.02-15.23.05:977][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.02-15.23.05:977][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.05:977][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.02-15.23.05:977][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2022.01.02-15.23.05:984][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.02-15.23.05:984][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.05:984][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.02-15.23.05:984][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2022.01.02-15.23.05:991][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.02-15.23.05:991][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.05:991][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.02-15.23.05:991][  0]LogPakFile: OnPakFileMounted2Time == 0.000112
+[2022.01.02-15.23.06:011][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.02-15.23.06:011][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.06:011][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.02-15.23.06:011][  0]LogPakFile: OnPakFileMounted2Time == 0.000123
+[2022.01.02-15.23.06:024][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.02-15.23.06:024][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.06:024][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.02-15.23.06:024][  0]LogPakFile: OnPakFileMounted2Time == 0.000132
+[2022.01.02-15.23.06:039][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.02-15.23.06:039][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.06:039][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.02-15.23.06:039][  0]LogPakFile: OnPakFileMounted2Time == 0.000140
+[2022.01.02-15.23.06:052][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.01.02-15.23.06:053][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.06:053][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.01.02-15.23.06:053][  0]LogPakFile: OnPakFileMounted2Time == 0.000162
+[2022.01.02-15.23.06:065][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.02-15.23.06:065][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.06:065][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.02-15.23.06:065][  0]LogPakFile: OnPakFileMounted2Time == 0.000167
+[2022.01.02-15.23.06:075][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.02-15.23.06:075][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.06:075][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.02-15.23.06:075][  0]LogPakFile: OnPakFileMounted2Time == 0.000172
+[2022.01.02-15.23.06:088][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.02-15.23.06:088][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.02-15.23.06:088][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.02-15.23.06:088][  0]LogPakFile: OnPakFileMounted2Time == 0.000180
+[2022.01.02-15.23.06:368][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.01.02-15.23.06:374][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.01.02-15.23.06:485][  0]LogSlate: Took 0.000545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.01.02-15.23.06:488][  0]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.01.02-15.23.06:514][  0]LogSlate: Took 0.018110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.01.02-15.23.06:714][  0]LogRenderer: Reallocating scene render targets to support 932x464 Format 10 NumSamples 1 (Frame:1).
+[2022.01.02-15.23.06:778][  0]LogSlate: Took 0.006199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.02-15.23.07:026][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.01.02-15.23.07:026][  0]LogLoad: (Engine Initialization) Total time: 9.80 seconds
+[2022.01.02-15.23.07:026][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.01.02-15.23.07:026][  0]LogInit: First time updating LLM stats...
+[2022.01.02-15.23.07:102][  0]LogAssetRegistry: Asset discovery search completed in 5.8814 seconds
+[2022.01.02-15.23.07:104][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2022.01.02-15.23.07:151][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.01.02-15.23.21:120][808]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.02-15.23.21:148][808]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/HUD.HUD
+[2022.01.02-15.23.22:147][808]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.01.02-15.23.23:775][808]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.01.02-15.25.00:536][480]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{47691bcf-932a-4adb-8f95-3a2e10238292}.
+[2022.01.02-15.25.00:536][480]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.02-15.25.00:814][480]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.02-15.25.00:814][480]LogAudioMixer: Display: 1: FrontRight
+[2022.01.02-15.25.23:939][550]LogHttp: Warning: 000001EF2B7AD600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-15.25.23:939][550]LogHttp: Warning: 000001EF2B7AD600: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.01.02-15.25.23:939][550]LogHttp: Warning: 000001EF2B7AD600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ef423d7eb0 [can pipeline])
+[2022.01.02-15.25.23:939][550]LogHttp: Warning: 000001EF2B7AD600: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.01.02-15.25.23:939][550]LogHttp: Warning: 000001EF2B7AD600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.229.64.89) port 443 (#0))
+[2022.01.02-15.25.23:939][550]LogHttp: Warning: 000001EF2B7AD600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.01.02-15.25.23:939][550]LogHttp: Warning: 000001EF2B7AD600: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.01.02-15.25.23:939][550]LogHttp: Warning: 000001EF2B7AD600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.01.02-15.25.23:939][550]LogHttp: Warning: 000001EF2B7AD600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.01.02-15.25.23:939][550]LogHttp: Warning: 000001EF2B7AD600: libcurl info message cache 7 (Closing connection 0)
+[2022.01.02-15.25.23:940][550]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-15.26.05:160][673]LogHttp: Warning: 000001EF2B3FF900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-15.26.05:160][673]LogHttp: Warning: 000001EF2B3FF900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-15.26.05:160][673]LogHttp: Warning: 000001EF2B3FF900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-15.26.05:161][673]LogHttp: Warning: 000001EF2B3FF900: libcurl info message cache 1 (Closing connection 1)
+[2022.01.02-15.26.05:492][674]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-15.27.05:162][852]LogHttp: Warning: 000001EF2B3FF900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-15.27.05:162][852]LogHttp: Warning: 000001EF2B3FF900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-15.27.05:162][852]LogHttp: Warning: 000001EF2B3FF900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-15.27.05:162][852]LogHttp: Warning: 000001EF2B3FF900: libcurl info message cache 1 (Closing connection 2)
+[2022.01.02-15.27.05:162][852]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-15.28.05:165][ 31]LogHttp: Warning: 000001EF2B3FF200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-15.28.05:166][ 31]LogHttp: Warning: 000001EF2B3FF200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-15.28.05:166][ 31]LogHttp: Warning: 000001EF2B3FF200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-15.28.05:166][ 31]LogHttp: Warning: 000001EF2B3FF200: libcurl info message cache 1 (Closing connection 3)
+[2022.01.02-15.28.05:508][ 32]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-15.29.04:517][189]LogHttp: Warning: 000001EF26334F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-15.29.04:517][189]LogHttp: Warning: 000001EF26334F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-15.29.04:517][189]LogHttp: Warning: 000001EF26334F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-15.29.04:517][189]LogHttp: Warning: 000001EF26334F00: libcurl info message cache 1 (Closing connection 4)
+[2022.01.02-15.29.04:532][190]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-15.29.30:797][616]LogSlate: Took 0.019675 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.01.02-15.30.04:558][132]LogHttp: Warning: 000001EF2E336B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-15.30.04:558][132]LogHttp: Warning: 000001EF2E336B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-15.30.04:558][132]LogHttp: Warning: 000001EF2E336B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-15.30.04:559][132]LogHttp: Warning: 000001EF2E336B00: libcurl info message cache 1 (Closing connection 5)
+[2022.01.02-15.30.04:559][132]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-15.31.04:529][710]LogHttp: Warning: 000001EF2E372B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-15.31.04:529][710]LogHttp: Warning: 000001EF2E372B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-15.31.04:529][710]LogHttp: Warning: 000001EF2E372B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-15.31.04:529][710]LogHttp: Warning: 000001EF2E372B00: libcurl info message cache 1 (Closing connection 6)
+[2022.01.02-15.31.04:531][710]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-15.31.54:800][959]LogEditorTransaction: Undo Edit Y
+[2022.01.02-15.31.55:403][969]LogEditorTransaction: Undo Set Vector Property
+[2022.01.02-15.31.56:209][999]LogEditorTransaction: Undo Set Vector Property
+[2022.01.02-15.31.56:820][ 25]LogEditorTransaction: Undo Move Widgets
+[2022.01.02-15.32.04:519][372]LogHttp: Warning: 000001EF2F86F900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-15.32.04:520][372]LogHttp: Warning: 000001EF2F86F900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-15.32.04:520][372]LogHttp: Warning: 000001EF2F86F900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-15.32.04:520][372]LogHttp: Warning: 000001EF2F86F900: libcurl info message cache 1 (Closing connection 7)
+[2022.01.02-15.32.04:520][372]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-15.33.05:067][478]LogHttp: Warning: 000001EF2F3CB900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-15.33.05:067][478]LogHttp: Warning: 000001EF2F3CB900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-15.33.05:068][478]LogHttp: Warning: 000001EF2F3CB900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-15.33.05:068][478]LogHttp: Warning: 000001EF2F3CB900: libcurl info message cache 1 (Closing connection 8)
+[2022.01.02-15.33.05:068][478]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-15.33.21:520][ 62]LogEditorTransaction: Undo Set Vector Property
+[2022.01.02-15.33.53:609][719]LogUObjectHash: Compacting FUObjectHashTables data took   8.49ms
+[2022.01.02-15.33.53:612][719]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelMenu' took 0.111
+[2022.01.02-15.33.53:613][719]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/HUD] ([2] browsable assets)...
+[2022.01.02-15.33.53:613][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/HUD]
+[2022.01.02-15.33.53:626][719]LogSavePackage: Moving '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/HUD_Auto1CCE5FF9144434AF1BD76E6B6AFCDA5FA.tmp' to '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Autosaves/Game/UI/HUD_Auto1.uasset'
+[2022.01.02-15.33.53:629][719]LogFileHelpers: Auto-saving content packages took 0.016
+[2022.01.02-15.34.05:018][ 29]LogHttp: Warning: 000001EF2F658F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-15.34.05:018][ 29]LogHttp: Warning: 000001EF2F658F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-15.34.05:018][ 29]LogHttp: Warning: 000001EF2F658F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-15.34.05:018][ 29]LogHttp: Warning: 000001EF2F658F00: libcurl info message cache 1 (Closing connection 9)
+[2022.01.02-15.34.05:355][ 30]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-15.35.04:539][318]LogHttp: Warning: 000001EF3059CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-15.35.04:540][318]LogHttp: Warning: 000001EF3059CF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-15.35.04:540][318]LogHttp: Warning: 000001EF3059CF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-15.35.04:540][318]LogHttp: Warning: 000001EF3059CF00: libcurl info message cache 1 (Closing connection 10)
+[2022.01.02-15.35.04:540][318]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-15.35.45:249][ 58]LogEditorTransaction: Undo Move Widget
+[2022.01.02-15.35.45:535][ 62]LogEditorTransaction: Undo Move Widget
+[2022.01.02-15.35.45:943][ 72]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.01.02-15.35.46:232][ 79]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.01.02-15.35.46:511][ 90]LogEditorTransaction: Undo Set Vector Property
+[2022.01.02-15.35.46:754][ 97]LogEditorTransaction: Undo Edit Y
+[2022.01.02-15.35.47:858][142]LogEditorTransaction: Undo Set Vector Property
+[2022.01.02-15.36.04:883][699]LogHttp: Warning: 000001EF1CDCDD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-15.36.04:883][699]LogHttp: Warning: 000001EF1CDCDD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-15.36.04:883][699]LogHttp: Warning: 000001EF1CDCDD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-15.36.04:883][699]LogHttp: Warning: 000001EF1CDCDD00: libcurl info message cache 1 (Closing connection 11)
+[2022.01.02-15.36.05:227][700]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-15.37.04:528][758]LogHttp: Warning: 000001EF2E2D6B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-15.37.04:528][758]LogHttp: Warning: 000001EF2E2D6B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-15.37.04:528][758]LogHttp: Warning: 000001EF2E2D6B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-15.37.04:528][758]LogHttp: Warning: 000001EF2E2D6B00: libcurl info message cache 1 (Closing connection 12)
+[2022.01.02-15.37.04:528][758]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-15.40.33:353][116]LogEditorTransaction: Undo Add Widget
+[2022.01.02-15.40.33:815][124]Cmd: TRANSACTION UNDO
+[2022.01.02-15.40.33:815][124]LogEditorTransaction: Undo Add Widget
+[2022.01.02-15.43.11:514][863]LogEditorTransaction: Undo Set Vector Property
+[2022.01.02-15.43.15:984][ 47]LogEditorTransaction: Undo Set Vector Property
+[2022.01.02-15.43.26:525][498]LogEditorTransaction: Undo Edit Size
+[2022.01.02-15.44.15:069][630]LogUObjectHash: Compacting FUObjectHashTables data took   8.69ms
+[2022.01.02-15.44.15:078][630]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelMenu' took 0.078
+[2022.01.02-15.44.15:079][630]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/HUD] ([2] browsable assets)...
+[2022.01.02-15.44.15:079][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/HUD]
+[2022.01.02-15.44.15:092][630]LogSavePackage: Moving '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/HUD_Auto2CB03D4FC4A3007168E89AEAE9DE49264.tmp' to '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Autosaves/Game/UI/HUD_Auto2.uasset'
+[2022.01.02-15.44.15:095][630]LogFileHelpers: Auto-saving content packages took 0.016
+[2022.01.02-15.52.43:315][297]LogHttp: Warning: 000001EF2E635600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-15.52.43:315][297]LogHttp: Warning: 000001EF2E635600: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.01.02-15.52.43:315][297]LogHttp: Warning: 000001EF2E635600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ef423d74f0 [can pipeline])
+[2022.01.02-15.52.43:315][297]LogHttp: Warning: 000001EF2E635600: libcurl info message cache 1 (Re-using existing connection! (#13) with host datarouter.ol.epicgames.com)
+[2022.01.02-15.52.43:315][297]LogHttp: Warning: 000001EF2E635600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.167.54.114) port 443 (#13))
+[2022.01.02-15.52.43:315][297]LogHttp: Warning: 000001EF2E635600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.01.02-15.52.43:315][297]LogHttp: Warning: 000001EF2E635600: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.01.02-15.52.43:315][297]LogHttp: Warning: 000001EF2E635600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.01.02-15.52.43:316][297]LogHttp: Warning: 000001EF2E635600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.01.02-15.52.43:316][297]LogHttp: Warning: 000001EF2E635600: libcurl info message cache 7 (Closing connection 13)
+[2022.01.02-15.52.43:337][298]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-15.53.04:522][281]LogHttp: Warning: 000001EF38CC6B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-15.53.04:523][281]LogHttp: Warning: 000001EF38CC6B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-15.53.04:523][281]LogHttp: Warning: 000001EF38CC6B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-15.53.04:523][281]LogHttp: Warning: 000001EF38CC6B00: libcurl info message cache 1 (Closing connection 14)
+[2022.01.02-15.53.04:545][282]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-15.54.05:039][916]LogHttp: Warning: 000001EF38CC5D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-15.54.05:039][916]LogHttp: Warning: 000001EF38CC5D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-15.54.05:039][916]LogHttp: Warning: 000001EF38CC5D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-15.54.05:039][916]LogHttp: Warning: 000001EF38CC5D00: libcurl info message cache 1 (Closing connection 15)
+[2022.01.02-15.54.05:039][916]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-15.54.15:533][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.01.02-15.54.15:542][946]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelMenu' took 0.065
+[2022.01.02-15.54.15:543][946]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/HUD] ([2] browsable assets)...
+[2022.01.02-15.54.15:543][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/HUD]
+[2022.01.02-15.54.15:554][946]LogSavePackage: Moving '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/HUD_Auto36A562B404340558CFBE266B939C03315.tmp' to '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Autosaves/Game/UI/HUD_Auto3.uasset'
+[2022.01.02-15.54.15:557][946]LogFileHelpers: Auto-saving content packages took 0.014
+[2022.01.02-16.03.05:476][660]LogEditorTransaction: Undo Move Widgets
+[2022.01.02-16.03.46:538][990]BlueprintLog: New page: Compile HUD
+[2022.01.02-16.03.46:566][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.01.02-16.03.47:116][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/UI/HUD.uasset" SILENT=true
+[2022.01.02-16.03.47:122][ 15]LogSavePackage: Moving '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/HUDE279C8D544A250FE9D6404B0A595FD60.tmp' to '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/UI/HUD.uasset'
+[2022.01.02-16.03.47:136][ 15]AssetCheck: New page: Asset Save: HUD
+[2022.01.02-16.03.47:137][ 15]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/HUD.HUD
+[2022.01.02-16.03.49:704][166]LogSlate: Window 'HUD' being destroyed
+[2022.01.02-16.03.49:714][166]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.01.02-16.03.49:714][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.02-16.03.49:724][166]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.01.02-16.03.49:724][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.02-16.04.13:126][545]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.01.02-16.04.13:137][545]LogContentBrowser: Creating deferred item: NewFolder
+[2022.01.02-16.04.22:192][ 89]LogContentBrowser: Attempting asset rename: NewFolder -> ImagesHUD
+[2022.01.02-16.04.22:193][ 89]LogContentBrowser: End creating deferred item NewFolder
+[2022.01.02-16.04.59:523][436]LogAssetTools: Warning: Failed to import 'C:\Users\mirei\OneDrive\Imágenes\carinha.mdp'. Unknown extension 'mdp'.
+[2022.01.02-16.07.23:399][368]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\mirei\OneDrive\Imágenes\felizcum.jpg)
+[2022.01.02-16.07.23:408][368]LogTexture: Display: Building textures: felizcum (BGRA8, 600X550)
+[2022.01.02-16.07.34:107][909]LogContentBrowser: Attempting asset rename: felizcum -> icon
+[2022.01.02-16.07.34:558][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/ImagesHUD/icon" FILE="../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/Images/ImagesHUD/icon.uasset" SILENT=true
+[2022.01.02-16.07.34:575][909]LogSavePackage: Moving '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/iconA5A96D544E044D45CA7D048516519389.tmp' to '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/Images/ImagesHUD/icon.uasset'
+[2022.01.02-16.07.34:877][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.01.02-16.07.34:915][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.01.02-16.07.34:928][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.01.02-16.07.34:955][909]AssetCheck: New page: Asset Save: icon
+[2022.01.02-16.07.34:955][909]LogContentValidation: Display: Validating Texture2D /Game/Images/ImagesHUD/icon.icon
+[2022.01.02-16.07.53:670][ 28]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/HUD.HUD
+[2022.01.02-16.09.51:900][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.01.02-16.09.51:902][129]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelMenu' took 0.020
+[2022.01.02-16.09.51:903][129]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/HUD] ([2] browsable assets)...
+[2022.01.02-16.09.51:903][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/HUD]
+[2022.01.02-16.09.51:908][129]LogSavePackage: Moving '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/HUD_Auto4CBD17C9047C9DF82AE2CB192A9DC8F11.tmp' to '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Autosaves/Game/UI/HUD_Auto4.uasset'
+[2022.01.02-16.09.51:909][129]LogFileHelpers: Auto-saving content packages took 0.006
+[2022.01.02-16.11.01:650][747]BlueprintLog: New page: Compile HUD
+[2022.01.02-16.11.01:668][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.01.02-16.11.02:334][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/UI/HUD.uasset" SILENT=true
+[2022.01.02-16.11.02:339][779]LogSavePackage: Moving '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/HUD6317B8F6465FECC2D1AD809FF87A32E6.tmp' to '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/UI/HUD.uasset'
+[2022.01.02-16.11.02:350][779]AssetCheck: New page: Asset Save: HUD
+[2022.01.02-16.11.02:350][779]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/HUD.HUD
+[2022.01.02-16.13.14:071][851]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/UMG': No such file or directory
+[2022.01.02-16.13.41:144][965]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/UMG': No such file or directory
+[2022.01.02-16.14.00:274][ 99]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/UMG': No such file or directory
+[2022.01.02-16.15.49:500][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/UI/HUD.uasset" SILENT=true
+[2022.01.02-16.15.49:507][524]LogSavePackage: Moving '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/HUDEEDA4BF64A4870DE525A97B486D219AB.tmp' to '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/UI/HUD.uasset'
+[2022.01.02-16.15.49:520][524]AssetCheck: New page: Asset Save: HUD
+[2022.01.02-16.15.49:520][524]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/HUD.HUD
+[2022.01.02-16.15.51:138][635]BlueprintLog: New page: Compile HUD
+[2022.01.02-16.15.51:175][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.01.02-16.40.25:073][163]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/UMG': No such file or directory
+[2022.01.02-16.40.35:186][846]LogEditorTransaction: Undo Remove Widget
+[2022.01.02-16.40.37:841][  2]LogEditorTransaction: Undo Remove Widget
+[2022.01.02-16.40.41:136][215]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/UMG': No such file or directory
+[2022.01.02-16.41.13:256][431]LogEditorTransaction: Undo Edit Text
+[2022.01.02-16.41.14:324][485]LogEditorTransaction: Undo Edit Text
+[2022.01.02-16.42.18:413][928]BlueprintLog: New page: Compile HUD
+[2022.01.02-16.42.18:441][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.01.02-16.42.19:048][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/UI/HUD.uasset" SILENT=true
+[2022.01.02-16.42.19:056][962]LogSavePackage: Moving '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/HUDA4D13DA2472E83B203A4B0A81F95B569.tmp' to '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/UI/HUD.uasset'
+[2022.01.02-16.42.19:070][962]AssetCheck: New page: Asset Save: HUD
+[2022.01.02-16.42.19:070][962]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/HUD.HUD
+[2022.01.02-16.43.39:494][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   7.52ms
+[2022.01.02-16.43.39:496][ 84]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelMenu' took 0.033
+[2022.01.02-16.43.39:496][ 84]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/HUD] ([2] browsable assets)...
+[2022.01.02-16.43.39:496][ 84]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/HUD]
+[2022.01.02-16.43.39:505][ 84]LogSavePackage: Moving '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/HUD_Auto57D3B481D4D11801F0DFCA9A2945554C3.tmp' to '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Autosaves/Game/UI/HUD_Auto5.uasset'
+[2022.01.02-16.43.39:509][ 84]LogFileHelpers: Auto-saving content packages took 0.013
+[2022.01.02-16.44.17:065][853]BlueprintLog: New page: Compile HUD
+[2022.01.02-16.44.17:089][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.01.02-16.44.17:676][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/UI/HUD.uasset" SILENT=true
+[2022.01.02-16.44.17:682][882]LogSavePackage: Moving '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/HUDF35EA21F4B62EF0F8DFA339E2431BE3D.tmp' to '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/UI/HUD.uasset'
+[2022.01.02-16.44.17:694][882]AssetCheck: New page: Asset Save: HUD
+[2022.01.02-16.44.17:694][882]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/HUD.HUD
+[2022.01.02-16.44.23:885][975]LogHttp: Warning: 000001EF2F49EB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-16.44.23:885][975]LogHttp: Warning: 000001EF2F49EB00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.01.02-16.44.23:885][975]LogHttp: Warning: 000001EF2F49EB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ef423d6050 [can pipeline])
+[2022.01.02-16.44.23:885][975]LogHttp: Warning: 000001EF2F49EB00: libcurl info message cache 1 (Re-using existing connection! (#16) with host datarouter.ol.epicgames.com)
+[2022.01.02-16.44.23:885][975]LogHttp: Warning: 000001EF2F49EB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.6.206.197) port 443 (#16))
+[2022.01.02-16.44.23:885][975]LogHttp: Warning: 000001EF2F49EB00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.01.02-16.44.23:885][975]LogHttp: Warning: 000001EF2F49EB00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.01.02-16.44.23:885][975]LogHttp: Warning: 000001EF2F49EB00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.01.02-16.44.23:885][975]LogHttp: Warning: 000001EF2F49EB00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.01.02-16.44.23:885][975]LogHttp: Warning: 000001EF2F49EB00: libcurl info message cache 7 (Closing connection 16)
+[2022.01.02-16.44.24:221][976]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-16.45.05:037][ 98]LogHttp: Warning: 000001EF22BBA400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-16.45.05:037][ 98]LogHttp: Warning: 000001EF22BBA400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-16.45.05:037][ 98]LogHttp: Warning: 000001EF22BBA400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-16.45.05:037][ 98]LogHttp: Warning: 000001EF22BBA400: libcurl info message cache 1 (Closing connection 17)
+[2022.01.02-16.45.05:037][ 98]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-16.46.05:037][277]LogHttp: Warning: 000001EF1F16F200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-16.46.05:037][277]LogHttp: Warning: 000001EF1F16F200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-16.46.05:037][277]LogHttp: Warning: 000001EF1F16F200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-16.46.05:037][277]LogHttp: Warning: 000001EF1F16F200: libcurl info message cache 1 (Closing connection 18)
+[2022.01.02-16.46.05:372][278]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-17.15.15:235][157]BlueprintLog: New page: Compile HUD
+[2022.01.02-17.15.15:271][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.01.02-17.15.15:957][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/UI/HUD.uasset" SILENT=true
+[2022.01.02-17.15.15:966][192]LogSavePackage: Moving '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/HUDE336426347CA9A6AE9E7B297388381F1.tmp' to '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/UI/HUD.uasset'
+[2022.01.02-17.15.15:979][192]AssetCheck: New page: Asset Save: HUD
+[2022.01.02-17.15.15:979][192]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/HUD.HUD
+[2022.01.02-17.15.18:716][394]LogSlate: Window 'HUD' being destroyed
+[2022.01.02-17.23.06:287][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.01.02-17.23.06:288][351]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelMenu' took 0.024
+[2022.01.02-17.23.06:289][351]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/HUD] ([2] browsable assets)...
+[2022.01.02-17.23.06:289][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/HUD]
+[2022.01.02-17.23.06:295][351]LogSavePackage: Moving '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/HUD_Auto6843040CE410AD79E29027AA47513CF7E.tmp' to '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Autosaves/Game/UI/HUD_Auto6.uasset'
+[2022.01.02-17.23.06:297][351]LogFileHelpers: Auto-saving content packages took 0.009
+[2022.01.02-17.26.34:961][312]LogRenderer: Reallocating scene render targets to support 1164x576 Format 10 NumSamples 1 (Frame:100581).
+[2022.01.02-17.26.35:511][370]BlueprintLog: New page: Compile HUD
+[2022.01.02-17.26.35:540][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.01.02-17.26.36:065][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/UI/HUD.uasset" SILENT=true
+[2022.01.02-17.26.36:073][415]LogSavePackage: Moving '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/HUD1CFB155C4570098466A609AB3747984C.tmp' to '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/UI/HUD.uasset'
+[2022.01.02-17.26.36:088][415]AssetCheck: New page: Asset Save: HUD
+[2022.01.02-17.26.36:088][415]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/HUD.HUD
+[2022.01.02-17.26.42:068][ 55]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MenuAnim.MenuAnim
+[2022.01.02-17.26.46:232][495]LogSlate: Took 0.007281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.02-17.27.04:507][356]LogHttp: Warning: 000001EF8A3C9D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-17.27.04:507][356]LogHttp: Warning: 000001EF8A3C9D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-17.27.04:507][356]LogHttp: Warning: 000001EF8A3C9D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ef423d62f0 [can pipeline])
+[2022.01.02-17.27.04:507][356]LogHttp: Warning: 000001EF8A3C9D00: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2022.01.02-17.27.04:507][356]LogHttp: Warning: 000001EF8A3C9D00: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-17.27.04:507][356]LogHttp: Warning: 000001EF8A3C9D00: libcurl info message cache 3 (Closing connection 20)
+[2022.01.02-17.27.04:508][356]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-17.28.04:511][860]LogHttp: Warning: 000001EF8A3C9D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-17.28.04:511][860]LogHttp: Warning: 000001EF8A3C9D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-17.28.04:511][860]LogHttp: Warning: 000001EF8A3C9D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ef423d62f0 [can pipeline])
+[2022.01.02-17.28.04:511][860]LogHttp: Warning: 000001EF8A3C9D00: libcurl info message cache 1 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-17.28.04:511][860]LogHttp: Warning: 000001EF8A3C9D00: libcurl info message cache 2 (Closing connection 21)
+[2022.01.02-17.28.04:511][860]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-17.29.04:523][349]LogHttp: Warning: 000001EF1F89CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-17.29.04:523][349]LogHttp: Warning: 000001EF1F89CF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-17.29.04:523][349]LogHttp: Warning: 000001EF1F89CF00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ef423d62f0 [can pipeline])
+[2022.01.02-17.29.04:523][349]LogHttp: Warning: 000001EF1F89CF00: libcurl info message cache 1 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-17.29.04:523][349]LogHttp: Warning: 000001EF1F89CF00: libcurl info message cache 2 (Closing connection 22)
+[2022.01.02-17.29.04:540][350]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-17.29.04:806][366]LogHttp: Warning: 000001EF1DBE8800: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-17.29.04:806][366]LogHttp: Warning: 000001EF1DBE8800: request failed, libcurl error: 0 (No error)
+[2022.01.02-17.29.04:806][366]LogHttp: Warning: 000001EF1DBE8800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ef423d62f0 [can pipeline])
+[2022.01.02-17.29.04:806][366]LogHttp: Warning: 000001EF1DBE8800: libcurl info message cache 1 (Re-using existing connection! (#19) with host datarouter.ol.epicgames.com)
+[2022.01.02-17.29.04:806][366]LogHttp: Warning: 000001EF1DBE8800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.201.22.230) port 443 (#19))
+[2022.01.02-17.29.04:806][366]LogHttp: Warning: 000001EF1DBE8800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.01.02-17.29.04:806][366]LogHttp: Warning: 000001EF1DBE8800: libcurl info message cache 4 (Closing connection 19)
+[2022.01.02-17.29.04:806][366]LogHttp: Warning: 000001EF1DBE8800: libcurl info message cache 5 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.01.02-17.29.04:806][366]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-17.30.04:531][949]LogHttp: Warning: 000001EF1F89CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-17.30.04:531][949]LogHttp: Warning: 000001EF1F89CF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-17.30.04:531][949]LogHttp: Warning: 000001EF1F89CF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-17.30.04:531][949]LogHttp: Warning: 000001EF1F89CF00: libcurl info message cache 1 (Closing connection 23)
+[2022.01.02-17.30.04:545][950]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-17.31.04:542][549]LogHttp: Warning: 000001EF1F89CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-17.31.04:542][549]LogHttp: Warning: 000001EF1F89CF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-17.31.04:542][549]LogHttp: Warning: 000001EF1F89CF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-17.31.04:542][549]LogHttp: Warning: 000001EF1F89CF00: libcurl info message cache 1 (Closing connection 24)
+[2022.01.02-17.31.04:557][550]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-17.32.04:543][149]LogHttp: Warning: 000001EF1F89CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-17.32.04:543][149]LogHttp: Warning: 000001EF1F89CF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-17.32.04:544][149]LogHttp: Warning: 000001EF1F89CF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-17.32.04:544][149]LogHttp: Warning: 000001EF1F89CF00: libcurl info message cache 1 (Closing connection 25)
+[2022.01.02-17.32.04:559][150]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-17.33.05:018][503]LogHttp: Warning: 000001EF8BECF200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-17.33.05:018][503]LogHttp: Warning: 000001EF8BECF200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-17.33.05:018][503]LogHttp: Warning: 000001EF8BECF200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-17.33.05:018][503]LogHttp: Warning: 000001EF8BECF200: libcurl info message cache 1 (Closing connection 26)
+[2022.01.02-17.33.05:352][504]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-17.34.29:028][810]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameMode.GameMode
+[2022.01.02-17.34.33:231][ 41]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.01.02-17.34.33:231][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.02-17.34.33:275][ 41]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameMode.GameMode
+[2022.01.02-17.37.47:276][968]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.01.02-17.37.47:277][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.02-17.37.54:101][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.01.02-17.37.54:189][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode_2" FILE="../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/GameMode_2.uasset" SILENT=true
+[2022.01.02-17.37.54:194][372]LogSavePackage: Moving '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/GameMode_2C00A8D1F4435E126A80AE898C15869A2.tmp' to '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/GameMode_2.uasset'
+[2022.01.02-17.37.54:521][372]AssetCheck: New page: Asset Save: GameMode_2
+[2022.01.02-17.37.54:521][372]LogContentValidation: Display: Validating Blueprint /Game/GameMode_2.GameMode_2
+[2022.01.02-17.38.24:401][153]LogContentBrowser: Attempting asset rename: GameMode_2 -> GameMode_2
+[2022.01.02-17.38.25:855][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.01.02-17.38.27:005][239]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.02-17.38.27:138][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.01.02-17.38.27:162][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.01.02-17.38.27:181][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.01.02-17.38.27:291][239]SourceControl: rm 'Monstermination/Content/GameMode_2.uasset'
+[2022.01.02-17.38.28:056][284]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameMode.GameMode
+[2022.01.02-17.39.36:488][347]LogHttp: Warning: 000001EFA1F61600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-17.39.36:488][347]LogHttp: Warning: 000001EFA1F61600: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.01.02-17.39.36:488][347]LogHttp: Warning: 000001EFA1F61600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ef423d6170 [can pipeline])
+[2022.01.02-17.39.36:489][347]LogHttp: Warning: 000001EFA1F61600: libcurl info message cache 1 (Re-using existing connection! (#27) with host datarouter.ol.epicgames.com)
+[2022.01.02-17.39.36:489][347]LogHttp: Warning: 000001EFA1F61600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.54.234.186) port 443 (#27))
+[2022.01.02-17.39.36:489][347]LogHttp: Warning: 000001EFA1F61600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.01.02-17.39.36:489][347]LogHttp: Warning: 000001EFA1F61600: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.01.02-17.39.36:489][347]LogHttp: Warning: 000001EFA1F61600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.01.02-17.39.36:489][347]LogHttp: Warning: 000001EFA1F61600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.01.02-17.39.36:489][347]LogHttp: Warning: 000001EFA1F61600: libcurl info message cache 7 (Closing connection 27)
+[2022.01.02-17.39.36:499][348]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-17.40.04:554][ 22]LogHttp: Warning: 000001EFA2E33900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-17.40.04:554][ 22]LogHttp: Warning: 000001EFA2E33900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-17.40.04:554][ 22]LogHttp: Warning: 000001EFA2E33900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-17.40.04:554][ 22]LogHttp: Warning: 000001EFA2E33900: libcurl info message cache 1 (Closing connection 28)
+[2022.01.02-17.40.04:554][ 22]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-17.40.31:114][609]LogSlate: Took 0.005356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.01.02-17.41.04:530][607]LogHttp: Warning: 000001EFA1622400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-17.41.04:530][607]LogHttp: Warning: 000001EFA1622400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-17.41.04:530][607]LogHttp: Warning: 000001EFA1622400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-17.41.04:530][607]LogHttp: Warning: 000001EFA1622400: libcurl info message cache 1 (Closing connection 29)
+[2022.01.02-17.41.04:546][608]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-17.42.04:527][191]LogHttp: Warning: 000001EFA923B900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-17.42.04:527][191]LogHttp: Warning: 000001EFA923B900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-17.42.04:527][191]LogHttp: Warning: 000001EFA923B900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-17.42.04:527][191]LogHttp: Warning: 000001EFA923B900: libcurl info message cache 1 (Closing connection 30)
+[2022.01.02-17.42.04:544][192]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-17.43.04:527][775]LogHttp: Warning: 000001EFA1D1E400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-17.43.04:527][775]LogHttp: Warning: 000001EFA1D1E400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-17.43.04:527][775]LogHttp: Warning: 000001EFA1D1E400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-17.43.04:527][775]LogHttp: Warning: 000001EFA1D1E400: libcurl info message cache 1 (Closing connection 31)
+[2022.01.02-17.43.04:543][776]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-17.43.26:903][107]BlueprintLog: New page: Compile GameMode
+[2022.01.02-17.43.26:942][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.01.02-17.43.27:486][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode" FILE="../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/GameMode.uasset" SILENT=true
+[2022.01.02-17.43.27:496][134]LogSavePackage: Moving '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/GameMode9B74E0F646580851D1C23FA5DE3E1D73.tmp' to '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Content/GameMode.uasset'
+[2022.01.02-17.43.27:509][134]AssetCheck: New page: Asset Save: GameMode
+[2022.01.02-17.43.27:509][134]LogContentValidation: Display: Validating Blueprint /Game/GameMode.GameMode
+[2022.01.02-17.44.04:550][342]LogHttp: Warning: 000001EFB1D17900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-17.44.04:550][342]LogHttp: Warning: 000001EFB1D17900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-17.44.04:550][342]LogHttp: Warning: 000001EFB1D17900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-17.44.04:550][342]LogHttp: Warning: 000001EFB1D17900: libcurl info message cache 1 (Closing connection 32)
+[2022.01.02-17.44.04:550][342]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-17.45.04:539][896]LogHttp: Warning: 000001EFB5D13900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-17.45.04:539][896]LogHttp: Warning: 000001EFB5D13900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-17.45.04:539][896]LogHttp: Warning: 000001EFB5D13900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-17.45.04:539][896]LogHttp: Warning: 000001EFB5D13900: libcurl info message cache 1 (Closing connection 33)
+[2022.01.02-17.45.04:539][896]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-17.46.04:538][420]LogHttp: Warning: 000001EFB3D8A400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-17.46.04:538][420]LogHttp: Warning: 000001EFB3D8A400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-17.46.04:538][420]LogHttp: Warning: 000001EFB3D8A400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-17.46.04:538][420]LogHttp: Warning: 000001EFB3D8A400: libcurl info message cache 1 (Closing connection 34)
+[2022.01.02-17.46.04:538][420]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-17.46.05:036][449]LogEditorTransaction: Undo Add Node
+[2022.01.02-17.46.42:411][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.01.02-17.46.42:413][293]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelMenu' took 0.025
+[2022.01.02-17.46.42:413][293]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/HUD] ([2] browsable assets)...
+[2022.01.02-17.46.42:413][293]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/HUD]
+[2022.01.02-17.46.42:421][293]LogSavePackage: Moving '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/HUD_Auto769D78B4A453CF784EB9ACCBD42796B15.tmp' to '../../../../../../Users/mirei/OneDrive/Documentos/GitHub/Monstermination/Monstermination/Saved/Autosaves/Game/UI/HUD_Auto7.uasset'
+[2022.01.02-17.46.42:422][293]LogFileHelpers: Auto-saving content packages took 0.009
+[2022.01.02-17.47.05:163][362]LogHttp: Warning: 000001EF1DCFF200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.02-17.47.05:164][362]LogHttp: Warning: 000001EF1DCFF200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.02-17.47.05:164][362]LogHttp: Warning: 000001EF1DCFF200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.02-17.47.05:164][362]LogHttp: Warning: 000001EF1DCFF200: libcurl info message cache 1 (Closing connection 35)
+[2022.01.02-17.47.05:164][362]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5FAB587-420E-4173-FB61-5FBC4CF22B24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=07f5b8d8454792e9f4091e8b8cca8ec8%7C9e8e50a0737642169f2b2fa272217c72%7C875ea0ed-3a76-43f5-a42c-73a12325e1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.02-17.47.42:937][473]LogRHI: Error: Present Fail Count 1
+[2022.01.02-17.47.42:937][473]LogRHI: Error: SyncInterval 0
+[2022.01.02-17.47.42:937][473]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.01.02-17.47.42:937][473]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.01.02-17.47.42:937][473]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.02-17.47.42:937][473]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.02-17.47.42:937][473]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.02-17.47.42:937][473]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.02-17.47.42:937][473]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.02-17.47.42:937][473]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.02-17.47.42:937][473]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.02-17.47.42:937][473]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.02-17.47.42:937][473]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.02-17.47.42:937][473]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070A42
+[2022.01.02-17.47.42:937][473]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.02-17.47.42:937][473]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.02-17.47.42:937][473]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.02-17.47.45:531][482]LogRHI: Error: Present Fail Count 2
+[2022.01.02-17.47.45:531][482]LogRHI: Error: SyncInterval 0
+[2022.01.02-17.47.45:531][482]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.01.02-17.47.45:531][482]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.01.02-17.47.45:531][482]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.02-17.47.45:531][482]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.02-17.47.45:531][482]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.02-17.47.45:531][482]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.02-17.47.45:531][482]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.02-17.47.45:531][482]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.02-17.47.45:532][482]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.02-17.47.45:532][482]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.02-17.47.45:532][482]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.02-17.47.45:532][482]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070A42
+[2022.01.02-17.47.45:532][482]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.02-17.47.45:532][482]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.02-17.47.45:532][482]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.02-17.47.45:581][485]LogRHI: Error: Present Fail Count 3
+[2022.01.02-17.47.45:581][485]LogRHI: Error: SyncInterval 0
+[2022.01.02-17.47.45:581][485]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.01.02-17.47.45:581][485]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.01.02-17.47.45:581][485]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.02-17.47.45:581][485]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.02-17.47.45:581][485]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.02-17.47.45:581][485]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.02-17.47.45:581][485]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.02-17.47.45:581][485]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.02-17.47.45:581][485]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.02-17.47.45:581][485]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.02-17.47.45:581][485]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.02-17.47.45:581][485]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070A42
+[2022.01.02-17.47.45:581][485]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.02-17.47.45:581][485]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.02-17.47.45:581][485]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.02-17.47.45:629][488]LogRHI: Error: Present Fail Count 4
+[2022.01.02-17.47.45:629][488]LogRHI: Error: SyncInterval 0
+[2022.01.02-17.47.45:629][488]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.01.02-17.47.45:629][488]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.01.02-17.47.45:629][488]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.02-17.47.45:629][488]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.02-17.47.45:629][488]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.02-17.47.45:629][488]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.02-17.47.45:629][488]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.02-17.47.45:629][488]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.02-17.47.45:629][488]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.02-17.47.45:629][488]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.02-17.47.45:630][488]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.02-17.47.45:630][488]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070A42
+[2022.01.02-17.47.45:630][488]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.02-17.47.45:630][488]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.02-17.47.45:630][488]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.02-17.47.45:680][491]LogRHI: Error: Present Fail Count 5
+[2022.01.02-17.47.45:680][491]LogRHI: Error: SyncInterval 0
+[2022.01.02-17.47.45:680][491]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.01.02-17.47.45:680][491]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.01.02-17.47.45:680][491]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.02-17.47.45:680][491]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.02-17.47.45:680][491]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.02-17.47.45:680][491]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.02-17.47.45:680][491]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.02-17.47.45:680][491]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.02-17.47.45:680][491]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.02-17.47.45:680][491]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.02-17.47.45:680][491]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.02-17.47.45:680][491]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070A42
+[2022.01.02-17.47.45:680][491]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.02-17.47.45:680][491]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.02-17.47.45:680][491]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.02-17.47.45:730][494]LogRHI: Error: Present Fail Count 6
+[2022.01.02-17.47.45:730][494]LogRHI: Error: SyncInterval 0
+[2022.01.02-17.47.45:730][494]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.01.02-17.47.45:730][494]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.01.02-17.47.45:730][494]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.02-17.47.45:730][494]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.02-17.47.45:730][494]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.02-17.47.45:730][494]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.02-17.47.45:730][494]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.02-17.47.45:730][494]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.02-17.47.45:730][494]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.02-17.47.45:730][494]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.02-17.47.45:730][494]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.02-17.47.45:730][494]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070A42
+[2022.01.02-17.47.45:730][494]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.02-17.47.45:730][494]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.02-17.47.45:730][494]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.02-17.47.45:780][497]LogRHI: Error: Present Fail Count 7
+[2022.01.02-17.47.45:780][497]LogRHI: Error: SyncInterval 0
+[2022.01.02-17.47.45:780][497]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.01.02-17.47.45:780][497]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.01.02-17.47.45:780][497]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.02-17.47.45:780][497]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.02-17.47.45:780][497]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.02-17.47.45:780][497]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.02-17.47.45:780][497]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.02-17.47.45:780][497]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.02-17.47.45:780][497]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.02-17.47.45:780][497]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.02-17.47.45:780][497]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.02-17.47.45:780][497]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070A42
+[2022.01.02-17.47.45:780][497]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.02-17.47.45:780][497]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.02-17.47.45:780][497]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.02-17.47.45:830][500]LogRHI: Error: Present Fail Count 8
+[2022.01.02-17.47.45:830][500]LogRHI: Error: SyncInterval 0
+[2022.01.02-17.47.45:830][500]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.01.02-17.47.45:830][500]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.01.02-17.47.45:830][500]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.02-17.47.45:830][500]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.02-17.47.45:830][500]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.02-17.47.45:830][500]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.02-17.47.45:830][500]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.02-17.47.45:830][500]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.02-17.47.45:830][500]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.02-17.47.45:830][500]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.02-17.47.45:830][500]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.02-17.47.45:830][500]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070A42
+[2022.01.02-17.47.45:830][500]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.02-17.47.45:830][500]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.02-17.47.45:830][500]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.02-17.47.45:879][503]LogRHI: Error: Present Fail Count 9
+[2022.01.02-17.47.45:879][503]LogRHI: Error: SyncInterval 0
+[2022.01.02-17.47.45:879][503]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.01.02-17.47.45:879][503]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.01.02-17.47.45:879][503]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.02-17.47.45:879][503]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.02-17.47.45:879][503]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.02-17.47.45:879][503]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.02-17.47.45:879][503]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.02-17.47.45:879][503]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.02-17.47.45:879][503]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.02-17.47.45:879][503]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.02-17.47.45:879][503]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.02-17.47.45:879][503]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070A42
+[2022.01.02-17.47.45:879][503]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.02-17.47.45:879][503]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.02-17.47.45:879][503]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.02-17.47.45:929][506]LogRHI: Error: Present Fail Count 10
+[2022.01.02-17.47.45:929][506]LogRHI: Error: SyncInterval 0
+[2022.01.02-17.47.45:929][506]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.01.02-17.47.45:929][506]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.01.02-17.47.45:929][506]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.02-17.47.45:929][506]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.02-17.47.45:929][506]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.02-17.47.45:929][506]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.02-17.47.45:929][506]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.02-17.47.45:929][506]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.02-17.47.45:929][506]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.02-17.47.45:929][506]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.02-17.47.45:929][506]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.02-17.47.45:929][506]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070A42
+[2022.01.02-17.47.45:929][506]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.02-17.47.45:929][506]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.02-17.47.45:929][506]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.02-17.47.45:966][509]LogRHI: Error: Present Fail Count 11
+[2022.01.02-17.47.45:966][509]LogRHI: Error: SyncInterval 0
+[2022.01.02-17.47.45:966][509]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.01.02-17.47.45:966][509]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.01.02-17.47.45:966][509]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.02-17.47.45:966][509]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.02-17.47.45:966][509]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.02-17.47.45:966][509]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.02-17.47.45:966][509]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.02-17.47.45:966][509]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.02-17.47.45:966][509]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.02-17.47.45:966][509]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.02-17.47.45:966][509]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.02-17.47.45:966][509]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070A42
+[2022.01.02-17.47.45:966][509]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.02-17.47.45:966][509]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.02-17.47.45:966][509]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.02-17.47.45:966][509]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:428 
+ with error DXGI_ERROR_DEVICE_REMOVED 00000000
+[2022.01.02-17.47.45:966][509]LogD3D11RHI: [Aftermath] GDynamicRHI=000001EF4638A340, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2022.01.02-17.47.45:966][509]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
