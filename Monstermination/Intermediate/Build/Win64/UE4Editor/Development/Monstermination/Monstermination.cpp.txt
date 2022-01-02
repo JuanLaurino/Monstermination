@@ -1,2 +1,2 @@
-D:\Proyectos\UE4\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Definitions.Monstermination.h
-D:\Proyectos\UE4\Monstermination\Monstermination\Source\Monstermination\Monstermination.h
+C:\Users\mirei\OneDrive\Documentos\GitHub\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Definitions.Monstermination.h
+c:\users\mirei\onedrive\documentos\github\monstermination\monstermination\source\monstermination\Monstermination.h
