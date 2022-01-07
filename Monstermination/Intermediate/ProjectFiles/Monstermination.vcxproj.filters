@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Monstermination.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{0898E7FA-7411-4D02-8A23-241C85215079}</UniqueIdentifier>
+      <UniqueIdentifier>{CDF562CA-9FDF-4E5F-89A3-AF126BFE873C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Monstermination.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{E503872B-BDC5-428E-A1B6-602E52C64439}</UniqueIdentifier>
+      <UniqueIdentifier>{C6549747-E663-4066-9D86-114D3A9A3A98}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,8 +23,11 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\Monstermination">
-      <UniqueIdentifier>{D9C6DB3A-4CF2-4907-9034-BC9870365ADD}</UniqueIdentifier>
+      <UniqueIdentifier>{53ACE06F-4DE4-460D-AE46-FCD3ABBBE06A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Monstermination\Monstermination.Build.cs">
       <Filter>Source\Monstermination</Filter>
