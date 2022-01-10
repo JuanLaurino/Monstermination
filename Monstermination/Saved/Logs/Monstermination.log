@@ -1398,3 +1398,790 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.10-15.56.41:515][594]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
 [2022.01.10-15.58.29:580][235]LogTemp: Repeating last play command: Standalone Game
 [2022.01.10-15.58.29:621][235]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.01.10-16.00.27:453][484]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Yaya/Meshes/bpBullet.bpBullet
+[2022.01.10-16.01.31:822][804]BlueprintLog: New page: Compile bpBullet
+[2022.01.10-16.01.31:877][804]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2022.01.10-16.01.32:166][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Yaya/Meshes/bpBullet" FILE="D:/Monstermination/Monstermination/Content/Characters/Yaya/Meshes/bpBullet.uasset" SILENT=true
+[2022.01.10-16.01.32:186][824]LogSavePackage: Moving 'D:/Monstermination/Monstermination/Saved/bpBulletB5B16FFC46DB8FEB72F833A5A2D5D710.tmp' to 'D:/Monstermination/Monstermination/Content/Characters/Yaya/Meshes/bpBullet.uasset'
+[2022.01.10-16.01.32:198][824]AssetCheck: New page: Asset Save: bpBullet
+[2022.01.10-16.01.32:198][824]LogContentValidation: Display: Validating Blueprint /Game/Characters/Yaya/Meshes/bpBullet.bpBullet
+[2022.01.10-16.01.33:539][972]LogTemp: Repeating last play command: Standalone Game
+[2022.01.10-16.01.33:581][972]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2022.01.10-16.02.43:979][823]BlueprintLog: New page: Compile bpBullet
+[2022.01.10-16.02.44:037][823]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.01.10-16.02.44:299][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Yaya/Meshes/bpBullet" FILE="D:/Monstermination/Monstermination/Content/Characters/Yaya/Meshes/bpBullet.uasset" SILENT=true
+[2022.01.10-16.02.44:317][844]LogSavePackage: Moving 'D:/Monstermination/Monstermination/Saved/bpBullet36ED57CE48B4832EA36B74813347AF56.tmp' to 'D:/Monstermination/Monstermination/Content/Characters/Yaya/Meshes/bpBullet.uasset'
+[2022.01.10-16.02.44:330][844]AssetCheck: New page: Asset Save: bpBullet
+[2022.01.10-16.02.44:330][844]LogContentValidation: Display: Validating Blueprint /Game/Characters/Yaya/Meshes/bpBullet.bpBullet
+[2022.01.10-16.02.45:679][  1]LogTemp: Repeating last play command: Standalone Game
+[2022.01.10-16.02.45:721][  1]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2022.01.10-16.03.27:077][707]LogEditorTransaction: Undo Add Node
+[2022.01.10-16.05.39:380][981]BlueprintLog: New page: Compile bpBullet
+[2022.01.10-16.05.39:437][981]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2022.01.10-16.05.39:580][992]BlueprintLog: New page: Compile bpBullet
+[2022.01.10-16.05.39:637][992]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2022.01.10-16.05.39:931][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Yaya/Meshes/bpBullet" FILE="D:/Monstermination/Monstermination/Content/Characters/Yaya/Meshes/bpBullet.uasset" SILENT=true
+[2022.01.10-16.05.39:949][ 15]LogSavePackage: Moving 'D:/Monstermination/Monstermination/Saved/bpBullet90BEAEDE4BB8BEF3008815BAF7480A64.tmp' to 'D:/Monstermination/Monstermination/Content/Characters/Yaya/Meshes/bpBullet.uasset'
+[2022.01.10-16.05.39:962][ 15]AssetCheck: New page: Asset Save: bpBullet
+[2022.01.10-16.05.39:962][ 15]LogContentValidation: Display: Validating Blueprint /Game/Characters/Yaya/Meshes/bpBullet.bpBullet
+[2022.01.10-16.05.40:912][116]LogTemp: Repeating last play command: Standalone Game
+[2022.01.10-16.05.40:955][116]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2022.01.10-16.06.22:518][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.10-16.06.22:519][880]PIE: New page: PIE session: LevelMenu (10 de gen. 2022, 18:06:22)
+[2022.01.10-16.06.22:519][880]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelMenu
+[2022.01.10-16.06.22:520][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001598s)
+[2022.01.10-16.06.22:521][880]LogAIModule: Creating AISystem for world LevelMenu
+[2022.01.10-16.06.22:521][880]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2022.01.10-16.06.22:521][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelMenu.LevelMenu to /Game/Levels/UEDPIE_0_LevelMenu.LevelMenu (0.002742s)
+[2022.01.10-16.06.22:558][880]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.01.10-16.06.22:559][880]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.01.10-16.06.22:559][880]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.10-16.06.22:559][880]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.10-16.06.22:559][880]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.10-16.06.22:559][880]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.10-16.06.22:559][880]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.10-16.06.22:559][880]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.10-16.06.22:559][880]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.10-16.06.22:559][880]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.10-16.06.22:560][880]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.10-16.06.22:560][880]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.10-16.06.22:562][880]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.10-16.06.22:562][880]LogAudioMixer: Display: 1: FrontRight
+[2022.01.10-16.06.22:579][880]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2022.01.10-16.06.22:579][880]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.10-16.06.22:579][880]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.10-16.06.22:579][880]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.10-16.06.22:580][880]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.10-16.06.22:580][880]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.10-16.06.22:580][880]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.10-16.06.22:595][880]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.10-16.06.22:595][880]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.10-16.06.22:595][880]LogInit: FAudioDevice initialized.
+[2022.01.10-16.06.22:595][880]LogAudio: Display: Audio Device (ID: 8) registered with world 'LevelMenu'.
+[2022.01.10-16.06.22:602][880]LogLoad: Game class is 'GameModeMenu_C'
+[2022.01.10-16.06.22:603][880]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelMenu.LevelMenu up for play (max tick rate 0) at 2022.01.10-17.06.22
+[2022.01.10-16.06.22:603][880]LogWorld: Bringing up level for play took: 0.000318
+[2022.01.10-16.06.22:603][880]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.01.10-16.06.22:605][880]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.01.10-16.06.22:606][880]PIE: Server logged in
+[2022.01.10-16.06.22:607][880]PIE: Play in editor total start time 0,089 seconds.
+[2022.01.10-16.06.23:605][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.10-16.06.23:605][989]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelMenu
+[2022.01.10-16.06.23:605][989]LogWorld: UWorld::CleanupWorld for LevelMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.10-16.06.23:605][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.10-16.06.23:615][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.10-16.06.23:621][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.10-16.06.23:651][989]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.10-16.06.23:651][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.10-16.06.23:652][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.10-16.06.23:669][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.10-16.06.23:672][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.01.10-16.06.23:692][990]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.01.10-16.07.59:079][366]BlueprintLog: New page: Compile bpBullet
+[2022.01.10-16.07.59:086][366]LogBlueprint: Error: [AssetLog] D:\Monstermination\Monstermination\Content\Characters\Yaya\Meshes\bpBullet.uasset: [Compiler] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2022.01.10-16.07.59:141][366]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2022.01.10-16.07.59:202][366]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.01.10-16.07.59:434][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Yaya/Meshes/bpBullet" FILE="D:/Monstermination/Monstermination/Content/Characters/Yaya/Meshes/bpBullet.uasset" SILENT=true
+[2022.01.10-16.07.59:453][388]LogSavePackage: Moving 'D:/Monstermination/Monstermination/Saved/bpBullet3312CC58458D5812A5BFBC9CDC9DFEB2.tmp' to 'D:/Monstermination/Monstermination/Content/Characters/Yaya/Meshes/bpBullet.uasset'
+[2022.01.10-16.07.59:466][388]AssetCheck: New page: Asset Save: bpBullet
+[2022.01.10-16.07.59:466][388]LogContentValidation: Display: Validating Blueprint /Game/Characters/Yaya/Meshes/bpBullet.bpBullet
+[2022.01.10-16.08.11:014][675]BlueprintLog: New page: Compile bpBullet
+[2022.01.10-16.08.11:070][675]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2022.01.10-16.08.11:683][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Yaya/Meshes/bpBullet" FILE="D:/Monstermination/Monstermination/Content/Characters/Yaya/Meshes/bpBullet.uasset" SILENT=true
+[2022.01.10-16.08.11:700][732]LogSavePackage: Moving 'D:/Monstermination/Monstermination/Saved/bpBullet08D28A9948B2A7CD3A2940BF6B37336D.tmp' to 'D:/Monstermination/Monstermination/Content/Characters/Yaya/Meshes/bpBullet.uasset'
+[2022.01.10-16.08.11:712][732]AssetCheck: New page: Asset Save: bpBullet
+[2022.01.10-16.08.11:712][732]LogContentValidation: Display: Validating Blueprint /Game/Characters/Yaya/Meshes/bpBullet.bpBullet
+[2022.01.10-16.08.32:855][191]BlueprintLog: New page: Compile bpBullet
+[2022.01.10-16.08.32:911][191]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2022.01.10-16.08.34:168][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Yaya/Meshes/bpBullet" FILE="D:/Monstermination/Monstermination/Content/Characters/Yaya/Meshes/bpBullet.uasset" SILENT=true
+[2022.01.10-16.08.34:187][328]LogSavePackage: Moving 'D:/Monstermination/Monstermination/Saved/bpBulletC3A1DBFC451A456146C6EF8B57C2E460.tmp' to 'D:/Monstermination/Monstermination/Content/Characters/Yaya/Meshes/bpBullet.uasset'
+[2022.01.10-16.08.34:200][328]AssetCheck: New page: Asset Save: bpBullet
+[2022.01.10-16.08.34:200][328]LogContentValidation: Display: Validating Blueprint /Game/Characters/Yaya/Meshes/bpBullet.bpBullet
+[2022.01.10-16.08.36:912][634]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.10-16.08.36:921][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.10-16.08.36:922][634]PIE: New page: PIE session: LevelMenu (10 de gen. 2022, 18:08:36)
+[2022.01.10-16.08.36:922][634]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelMenu
+[2022.01.10-16.08.36:923][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001504s)
+[2022.01.10-16.08.36:924][634]LogAIModule: Creating AISystem for world LevelMenu
+[2022.01.10-16.08.36:924][634]LogPlayLevel: PIE: World Init took: (0.001103s)
+[2022.01.10-16.08.36:924][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelMenu.LevelMenu to /Game/Levels/UEDPIE_0_LevelMenu.LevelMenu (0.002709s)
+[2022.01.10-16.08.36:958][634]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2022.01.10-16.08.36:959][634]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.01.10-16.08.36:959][634]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.10-16.08.36:959][634]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.10-16.08.36:959][634]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.10-16.08.36:959][634]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.10-16.08.36:959][634]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.10-16.08.36:959][634]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.10-16.08.36:959][634]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.10-16.08.36:959][634]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.10-16.08.36:960][634]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.10-16.08.36:960][634]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.10-16.08.36:962][634]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.10-16.08.36:962][634]LogAudioMixer: Display: 1: FrontRight
+[2022.01.10-16.08.36:978][634]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2022.01.10-16.08.36:979][634]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.10-16.08.36:979][634]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.10-16.08.36:979][634]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.10-16.08.36:979][634]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.10-16.08.36:979][634]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.10-16.08.36:979][634]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.10-16.08.36:994][634]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.10-16.08.36:994][634]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.10-16.08.36:994][634]LogInit: FAudioDevice initialized.
+[2022.01.10-16.08.36:994][634]LogAudio: Display: Audio Device (ID: 9) registered with world 'LevelMenu'.
+[2022.01.10-16.08.37:000][634]LogLoad: Game class is 'GameModeMenu_C'
+[2022.01.10-16.08.37:001][634]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelMenu.LevelMenu up for play (max tick rate 0) at 2022.01.10-17.08.37
+[2022.01.10-16.08.37:001][634]LogWorld: Bringing up level for play took: 0.000302
+[2022.01.10-16.08.37:001][634]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.01.10-16.08.37:003][634]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.01.10-16.08.37:003][634]PIE: Server logged in
+[2022.01.10-16.08.37:004][634]PIE: Play in editor total start time 0,083 seconds.
+[2022.01.10-16.08.52:333][467]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.01.10-16.08.52:333][467]LogNet: Browse: /Game/Levels/levelGame
+[2022.01.10-16.08.52:333][467]LogLoad: LoadMap: /Game/Levels/levelGame
+[2022.01.10-16.08.52:333][467]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelMenu
+[2022.01.10-16.08.52:334][467]LogWorld: UWorld::CleanupWorld for LevelMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.10-16.08.52:334][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.10-16.08.52:404][467]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.10-16.08.52:408][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.01.10-16.08.52:425][467]LogAudio: Display: Audio Device (ID: 9) registered with world 'LevelGame'.
+[2022.01.10-16.08.52:426][467]LogAIModule: Creating AISystem for world LevelGame
+[2022.01.10-16.08.52:426][467]LogLoad: Game class is 'GameMode_C'
+[2022.01.10-16.08.52:432][467]LogWorld: Bringing World /Game/Levels/UEDPIE_0_levelGame.LevelGame up for play (max tick rate 0) at 2022.01.10-17.08.52
+[2022.01.10-16.08.52:437][467]LogWorld: Bringing up level for play took: 0.010388
+[2022.01.10-16.08.52:440][467]LogLoad: Took 0.106607 seconds to LoadMap(/Game/Levels/levelGame)
+[2022.01.10-16.08.52:441][467]LogScript: Warning: Script Msg: enemyController1_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.52:441][467]LogScript: Warning: Script Msg: enemyController1_C_3 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.52:441][467]LogScript: Warning: Script Msg: enemyController1_C_3 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.52:481][469]LogScript: Warning: Script Msg: enemyController1_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.52:671][471]LogScript: Warning: Script Msg: enemyController1_C_3 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.53:581][546]LogScript: Warning: Script Msg: enemyController1_C_4 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.53:689][555]LogScript: Warning: Script Msg: enemyController1_C_3 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.55:268][685]LogScript: Warning: Script Msg: enemyController1_C_3 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.55:281][686]LogScript: Warning: Script Msg: enemyController1_C_4 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.55:625][714]LogScript: Warning: Script Msg: enemyController1_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.55:735][723]LogScript: Warning: Script Msg: enemyController1_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.55:747][724]LogScript: Warning: Script Msg: enemyController1_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.55:784][727]LogScript: Warning: Script Msg: enemyController1_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.55:784][727]LogScript: Warning: Script Msg: enemyController1_C_4 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.55:820][730]LogScript: Warning: Script Msg: enemyController1_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.56:234][764]LogScript: Warning: Script Msg: enemyController1_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.56:235][764]LogScript: Warning: Script Msg: enemyController1_C_4 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.56:246][765]LogScript: Warning: Script Msg: enemyController1_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.56:246][765]LogScript: Warning: Script Msg: enemyController1_C_3 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.57:362][856]LogScript: Warning: Script Msg: enemyController1_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.57:461][864]LogScript: Warning: Script Msg: enemyController1_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.57:607][876]LogScript: Warning: Script Msg: enemyController1_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.57:620][877]LogScript: Warning: Script Msg: enemyController1_C_4 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.57:670][881]LogScript: Warning: Script Msg: enemyController1_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.57:670][881]LogScript: Warning: Script Msg: enemyController1_C_4 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.57:895][899]LogScript: Warning: Script Msg: enemyController1_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.57:922][901]LogScript: Warning: Script Msg: enemyController1_C_4 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.58:070][913]LogScript: Warning: Script Msg: enemyController1_C_4 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.58:120][917]LogScript: Warning: Script Msg: enemyController1_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.58:195][923]LogScript: Warning: Script Msg: enemyController1_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.58:221][925]LogScript: Warning: Script Msg: enemyController1_C_4 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.58:246][927]LogScript: Warning: Script Msg: enemyController1_C_3 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.58:445][943]LogScript: Warning: Script Msg: enemyController1_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.58:571][953]LogBlueprintUserMessages: [bpYaya_C_0] 266.0
+[2022.01.10-16.08.58:645][959]LogScript: Warning: Script Msg: enemyController1_C_4 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.58:998][987]LogScript: Warning: Script Msg: enemyController1_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.59:048][991]LogScript: Warning: Script Msg: enemyController1_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.59:060][992]LogScript: Warning: Script Msg: enemyController1_C_3 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.59:148][999]LogScript: Warning: Script Msg: enemyController1_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.59:173][  1]LogScript: Warning: Script Msg: enemyController1_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.59:222][  5]LogScript: Warning: Script Msg: enemyController1_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.59:247][  7]LogScript: Warning: Script Msg: enemyController1_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.59:248][  7]LogScript: Warning: Script Msg: enemyController1_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.59:259][  8]LogScript: Warning: Script Msg: enemyController1_C_4 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.59:272][  9]LogScript: Warning: Script Msg: enemyController1_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.59:360][ 16]LogScript: Warning: Script Msg: enemyController1_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.59:372][ 17]LogScript: Warning: Script Msg: enemyController1_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.59:386][ 18]LogScript: Warning: Script Msg: enemyController1_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.59:620][ 37]LogScript: Warning: Script Msg: enemyController1_C_3 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.59:731][ 46]LogScript: Warning: Script Msg: enemyController1_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.08.59:867][ 57]LogScript: Warning: Script Msg: enemyController1_C_4 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.09.00:039][ 71]LogScript: Warning: Script Msg: enemyController1_C_3 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.09.00:355][ 97]LogScript: Warning: Script Msg: enemyController1_C_4 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.09.00:732][128]LogScript: Warning: Script Msg: enemyController1_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.09.00:804][134]LogScript: Warning: Script Msg: enemyController1_C_3 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.09.01:500][191]LogScript: Warning: Script Msg: enemyController1_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.09.03:216][331]LogScript: Warning: Script Msg: enemyController1_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.09.06:616][605]LogScript: Warning: Script Msg: enemyController1_C_4 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.09.06:828][622]LogScript: Warning: Script Msg: enemyController1_C_3 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.10-16.09.17:035][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.10-16.09.17:035][465]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_levelGame
+[2022.01.10-16.09.17:035][465]LogWorld: UWorld::CleanupWorld for LevelGame, bSessionEnded=true, bCleanupResources=true
+[2022.01.10-16.09.17:035][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.10-16.09.17:044][465]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.10-16.09.17:052][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.10-16.09.17:083][465]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.10-16.09.17:083][465]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.10-16.09.17:084][465]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.10-16.09.17:101][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.10-16.09.17:106][465]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.01.10-16.09.17:130][466]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.01.10-16.09.18:402][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.01.10-16.09.32:113][115]BlueprintLog: New page: Compile bpBullet
+[2022.01.10-16.09.32:170][115]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.01.10-16.09.32:503][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Yaya/Meshes/bpBullet" FILE="D:/Monstermination/Monstermination/Content/Characters/Yaya/Meshes/bpBullet.uasset" SILENT=true
+[2022.01.10-16.09.32:520][142]LogSavePackage: Moving 'D:/Monstermination/Monstermination/Saved/bpBullet92E61E05461E387F9E808D9279D86186.tmp' to 'D:/Monstermination/Monstermination/Content/Characters/Yaya/Meshes/bpBullet.uasset'
+[2022.01.10-16.09.32:533][142]AssetCheck: New page: Asset Save: bpBullet
+[2022.01.10-16.09.32:533][142]LogContentValidation: Display: Validating Blueprint /Game/Characters/Yaya/Meshes/bpBullet.bpBullet
+[2022.01.10-16.49.49:580][431]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2022.01.10-16.49.49:596][431]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.01.10-16.49.49:597][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.10-16.49.49:611][431]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.01.10-16.49.49:611][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.10-16.49.49:659][431]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.01.10-16.49.49:659][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.10-16.49.49:718][431]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.01.10-16.49.49:718][431]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.01.10-16.49.49:718][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.10-16.49.49:786][431]LogSlate: Window 'Monstermination - Unreal Editor' being destroyed
+[2022.01.10-16.49.49:887][432]Cmd: QUIT_EDITOR
+[2022.01.10-16.49.49:887][432]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.01.10-16.49.49:891][432]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.01.10-16.49.50:222][432]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.01.10-16.49.50:222][432]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.01.10-16.49.50:222][432]LogAudio: Display: Audio Device unregistered from world 'LevelMenu'.
+[2022.01.10-16.49.50:222][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.10-16.49.50:225][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.10-16.49.50:317][432]LogAudio: Display: Audio Device Manager Shutdown
+[2022.01.10-16.49.50:318][432]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.10-16.49.50:330][432]LogExit: Preparing to exit.
+[2022.01.10-16.49.51:485][432]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.01.10-16.49.51:498][432]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.01.10-16.49.51:504][432]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.01.10-16.49.51:511][432]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.01.10-16.49.51:518][432]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.01.10-16.49.51:525][432]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.01.10-16.49.51:529][432]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.01.10-16.49.51:533][432]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F406F00] Windows
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F406E00] Default__DeviceProfile
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F1300] WindowsNoEditor
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F405300] WindowsServer
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F2A00] WindowsClient
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F406900] IOS
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F3F00] iPadAir
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F407E00] iPadAir2
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAB8700] IPadPro
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAB8800] iPadAir3
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F407000] iPadAir4
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FABAE00] iPadMini2
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F405200] iPadMini3
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FABA000] iPadMini4
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F404700] iPadMini5
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAABF00] iPhone6
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAABE00] iPodTouch6
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F2B00] iPhone7
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F0400] iPodTouch7
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAA9700] iPhone5S
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F1800] iPhone6Plus
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAAA700] iPhone6S
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F1E00] iPhone6SPlus
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAA9B00] iPhone7Plus
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F3900] iPhoneSE
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAAA500] iPhone8
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F1000] iPhone8Plus
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAA9E00] iPhoneX
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F0A00] iPhoneXS
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAAA200] iPhoneXSMax
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F0300] iPhoneXR
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAAA100] iPhone11
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F0700] iPhone11Pro
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAA9A00] iPhone11ProMax
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F0B00] iPhoneSE2
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAA8800] iPhone12Mini
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F0600] iPhone12
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAAA300] iPhone12Pro
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F1900] iPhone12ProMax
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAAB700] iPadPro105
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F3300] iPadPro129
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAA8B00] iPadPro97
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F1C00] iPadPro2_129
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAAB300] iPad5
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F3A00] iPad6
+[2022.01.10-16.49.51:574][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAA9D00] iPad7
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F3000] iPad8
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAAA900] iPadPro11
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F0200] iPadPro2_11
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAA8A00] iPadPro3_129
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F3600] iPadPro4_129
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAA9600] AppleTV
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F3C00] AppleTV4K
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAABB00] TVOS
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F2700] Mac
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAAAF00] MacClient
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F1D00] MacNoEditor
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F405600] MacServer
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FBD4400] Linux
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F405100] LinuxAArch64
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F3100] LinuxNoEditor
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F405C00] LinuxAArch64NoEditor
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F1200] LinuxClient
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F407300] LinuxAArch64Client
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F2500] LinuxServer
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F407A00] LinuxAArch64Server
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F0100] Android
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F407400] Android_Low
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F3500] Android_Mid
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F406100] Android_High
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F3400] Android_Default
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F404500] Android_Adreno4xx
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F2300] Android_Adreno5xx_Low
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F404800] Android_Adreno5xx
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F2100] Android_Adreno6xx
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F405800] Android_Adreno6xx_Vulkan
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F1B00] Android_Mali_T6xx
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F407700] Android_Mali_T7xx
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F1600] Android_Mali_T8xx
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F404100] Android_Mali_G71
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F1700] Android_Mali_G72
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F405900] Android_Mali_G72_Vulkan
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F3B00] Android_Mali_G76
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F404600] Android_Mali_G76_Vulkan
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F3E00] Android_Mali_G77
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F406000] Android_Mali_G77_Vulkan
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F2000] Android_Vulkan_SM5
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F404B00] Android_PowerVR_G6xxx
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F1100] Android_PowerVR_GT7xxx
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F404400] Android_PowerVR_GE8xxx
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F2200] Android_PowerVR_GM9xxx
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F407500] Android_PowerVR_GM9xxx_Vulkan
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F3700] Android_TegraK1
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F405400] Android_Unknown_Vulkan
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4F3F0D00] Lumin
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FABAC00] Lumin_Desktop
+[2022.01.10-16.49.51:575][432]LogDeviceProfile: Device profile begin destroy: [000001DE4FAAB000] HoloLens
+[2022.01.10-16.49.51:610][432]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.01.10-16.49.51:611][432]LogExit: Editor shut down
+[2022.01.10-16.49.51:611][432]LogExit: Transaction tracking system shut down
+[2022.01.10-16.49.51:623][432]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.01.10-16.49.51:878][432]LogExit: Object subsystem successfully closed.
+[2022.01.10-16.49.51:901][432]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.01.10-16.49.51:933][432]LogModuleManager: Shutting down and abandoning module SequencerWidgets (826)
+[2022.01.10-16.49.51:933][432]LogModuleManager: Shutting down and abandoning module BlueprintGraph (824)
+[2022.01.10-16.49.51:933][432]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (822)
+[2022.01.10-16.49.51:933][432]LogModuleManager: Shutting down and abandoning module Voice (820)
+[2022.01.10-16.49.51:933][432]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (818)
+[2022.01.10-16.49.51:933][432]LogModuleManager: Shutting down and abandoning module SceneOutliner (816)
+[2022.01.10-16.49.51:933][432]LogModuleManager: Shutting down and abandoning module AddContentDialog (814)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module WidgetCarousel (813)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module EditorWidgets (810)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module StatsViewer (808)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (806)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (804)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module AutomationWorker (802)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module SteamVREditor (800)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module OculusMR (798)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module GooglePADEditor (796)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (794)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module PlanarCut (792)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module CharacterAI (790)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (788)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (786)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (784)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (782)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (780)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (778)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (776)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (774)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module WebMMedia (772)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (770)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (768)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (766)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (764)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (762)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module SequenceRecorder (761)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (758)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (756)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (754)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (752)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (750)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (748)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (746)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module TextureAlignMode (744)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module BspMode (742)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module GeometryMode (740)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (738)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module SmartSnapping (736)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module SessionServices (734)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module MeshPaint (732)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (730)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module FoliageEdit (728)
+[2022.01.10-16.49.51:934][432]LogModuleManager: Shutting down and abandoning module LandscapeEditor (726)
+[2022.01.10-16.49.51:935][432]LogModuleManager: Shutting down and abandoning module MeshPaintMode (724)
+[2022.01.10-16.49.51:935][432]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (722)
+[2022.01.10-16.49.51:935][432]LogModuleManager: Shutting down and abandoning module ActorPickerMode (720)
+[2022.01.10-16.49.51:935][432]LogModuleManager: Shutting down and abandoning module PlacementMode (718)
+[2022.01.10-16.49.51:935][432]LogModuleManager: Shutting down and abandoning module ViewportSnapping (716)
+[2022.01.10-16.49.51:935][432]LogModuleManager: Shutting down and abandoning module ViewportInteraction (714)
+[2022.01.10-16.49.51:935][432]LogModuleManager: Shutting down and abandoning module ClothPainter (712)
+[2022.01.10-16.49.51:935][432]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (711)
+[2022.01.10-16.49.51:935][432]LogModuleManager: Shutting down and abandoning module LogVisualizer (708)
+[2022.01.10-16.49.51:935][432]LogModuleManager: Shutting down and abandoning module IntroTutorials (706)
+[2022.01.10-16.49.51:935][432]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (705)
+[2022.01.10-16.49.51:935][432]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (702)
+[2022.01.10-16.49.51:935][432]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (700)
+[2022.01.10-16.49.51:935][432]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (698)
+[2022.01.10-16.49.51:935][432]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (697)
+[2022.01.10-16.49.52:551][432]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (694)
+[2022.01.10-16.49.52:552][432]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (692)
+[2022.01.10-16.49.52:552][432]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (690)
+[2022.01.10-16.49.52:552][432]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (688)
+[2022.01.10-16.49.52:552][432]LogModuleManager: Shutting down and abandoning module TraceInsights (686)
+[2022.01.10-16.49.52:552][432]MemoryProfiler: Shutdown
+[2022.01.10-16.49.52:552][432]NetworkingProfiler: Shutdown
+[2022.01.10-16.49.52:552][432]LoadingProfiler: Shutdown
+[2022.01.10-16.49.52:553][432]TimingProfiler: Shutdown
+[2022.01.10-16.49.52:553][432]LogModuleManager: Shutting down and abandoning module TraceServices (685)
+[2022.01.10-16.49.52:553][432]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (682)
+[2022.01.10-16.49.52:553][432]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (680)
+[2022.01.10-16.49.52:553][432]LogModuleManager: Shutting down and abandoning module InputBindingEditor (678)
+[2022.01.10-16.49.52:554][432]LogModuleManager: Shutting down and abandoning module MergeActors (676)
+[2022.01.10-16.49.52:554][432]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (674)
+[2022.01.10-16.49.52:554][432]LogModuleManager: Shutting down and abandoning module LocalizationService (673)
+[2022.01.10-16.49.52:554][432]LogModuleManager: Shutting down and abandoning module HardwareTargeting (670)
+[2022.01.10-16.49.52:554][432]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (668)
+[2022.01.10-16.49.52:554][432]LogModuleManager: Shutting down and abandoning module UndoHistory (666)
+[2022.01.10-16.49.52:554][432]LogModuleManager: Shutting down and abandoning module XmlParser (664)
+[2022.01.10-16.49.52:554][432]LogModuleManager: Shutting down and abandoning module Blutility (662)
+[2022.01.10-16.49.52:555][432]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (660)
+[2022.01.10-16.49.52:555][432]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (659)
+[2022.01.10-16.49.52:555][432]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (656)
+[2022.01.10-16.49.52:556][432]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (655)
+[2022.01.10-16.49.52:556][432]LogModuleManager: Shutting down and abandoning module SettingsEditor (652)
+[2022.01.10-16.49.52:556][432]LogModuleManager: Shutting down and abandoning module ProjectLauncher (650)
+[2022.01.10-16.49.52:556][432]LogModuleManager: Shutting down and abandoning module SessionFrontend (648)
+[2022.01.10-16.49.52:556][432]LogModuleManager: Shutting down and abandoning module ProfilerClient (646)
+[2022.01.10-16.49.52:556][432]LogModuleManager: Shutting down and abandoning module DeviceManager (644)
+[2022.01.10-16.49.52:556][432]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (643)
+[2022.01.10-16.49.52:589][432]LogModuleManager: Shutting down and abandoning module AutomationController (640)
+[2022.01.10-16.49.52:589][432]LogModuleManager: Shutting down and abandoning module AutomationWindow (638)
+[2022.01.10-16.49.52:589][432]LogModuleManager: Shutting down and abandoning module Layers (636)
+[2022.01.10-16.49.52:589][432]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (634)
+[2022.01.10-16.49.52:589][432]LogModuleManager: Shutting down and abandoning module DetailCustomizations (632)
+[2022.01.10-16.49.52:589][432]LogModuleManager: Shutting down and abandoning module PackagesDialog (630)
+[2022.01.10-16.49.52:589][432]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (628)
+[2022.01.10-16.49.52:589][432]LogModuleManager: Shutting down and abandoning module Persona (626)
+[2022.01.10-16.49.52:589][432]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (625)
+[2022.01.10-16.49.52:589][432]LogModuleManager: Shutting down and abandoning module AnimGraph (623)
+[2022.01.10-16.49.52:589][432]LogModuleManager: Shutting down and abandoning module Kismet (620)
+[2022.01.10-16.49.52:599][432]LogModuleManager: Shutting down and abandoning module KismetWidgets (619)
+[2022.01.10-16.49.52:599][432]LogModuleManager: Shutting down and abandoning module GraphEditor (616)
+[2022.01.10-16.49.52:600][432]LogModuleManager: Shutting down and abandoning module StructViewer (614)
+[2022.01.10-16.49.52:600][432]LogModuleManager: Shutting down and abandoning module ClassViewer (612)
+[2022.01.10-16.49.52:600][432]LogModuleManager: Shutting down and abandoning module Toolbox (610)
+[2022.01.10-16.49.52:600][432]LogModuleManager: Shutting down and abandoning module ModuleUI (608)
+[2022.01.10-16.49.52:600][432]LogModuleManager: Shutting down and abandoning module OutputLog (606)
+[2022.01.10-16.49.52:600][432]LogModuleManager: Shutting down and abandoning module GammaUI (604)
+[2022.01.10-16.49.52:600][432]LogModuleManager: Shutting down and abandoning module Documentation (602)
+[2022.01.10-16.49.52:601][432]LogModuleManager: Shutting down and abandoning module LiveCoding (600)
+[2022.01.10-16.49.52:601][432]LogModuleManager: Shutting down and abandoning module LevelSequence (598)
+[2022.01.10-16.49.52:601][432]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (596)
+[2022.01.10-16.49.52:601][432]LogModuleManager: Shutting down and abandoning module MovieScene (594)
+[2022.01.10-16.49.52:601][432]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (592)
+[2022.01.10-16.49.52:601][432]LogModuleManager: Shutting down and abandoning module LauncherPlatform (590)
+[2022.01.10-16.49.52:601][432]LogModuleManager: Shutting down and abandoning module AnalyticsET (588)
+[2022.01.10-16.49.52:601][432]LogModuleManager: Shutting down and abandoning module PortalServices (586)
+[2022.01.10-16.49.52:601][432]LogModuleManager: Shutting down and abandoning module PortalRpc (584)
+[2022.01.10-16.49.52:601][432]LogModuleManager: Shutting down and abandoning module MessagingRpc (582)
+[2022.01.10-16.49.52:601][432]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (580)
+[2022.01.10-16.49.52:601][432]LogModuleManager: Shutting down and abandoning module AudioMixerCore (579)
+[2022.01.10-16.49.52:601][432]LogModuleManager: Shutting down and abandoning module AIModule (576)
+[2022.01.10-16.49.52:601][432]LogModuleManager: Shutting down and abandoning module GameplayDebugger (575)
+[2022.01.10-16.49.52:601][432]LogModuleManager: Shutting down and abandoning module AITestSuite (573)
+[2022.01.10-16.49.52:601][432]LogModuleManager: Shutting down and abandoning module NavigationSystem (571)
+[2022.01.10-16.49.52:601][432]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (568)
+[2022.01.10-16.49.52:601][432]LogModuleManager: Shutting down and abandoning module ProfilerService (566)
+[2022.01.10-16.49.52:819][432]LogModuleManager: Shutting down and abandoning module TaskGraph (564)
+[2022.01.10-16.49.52:819][432]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (562)
+[2022.01.10-16.49.52:819][432]LogModuleManager: Shutting down and abandoning module OculusEditor (560)
+[2022.01.10-16.49.52:819][432]LogModuleManager: Shutting down and abandoning module OculusInput (558)
+[2022.01.10-16.49.52:819][432]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (556)
+[2022.01.10-16.49.52:819][432]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (554)
+[2022.01.10-16.49.52:819][432]LogModuleManager: Shutting down and abandoning module CollectionManager (553)
+[2022.01.10-16.49.52:820][432]LogModuleManager: Shutting down and abandoning module SynthesisEditor (550)
+[2022.01.10-16.49.52:820][432]LogModuleManager: Shutting down and abandoning module Synthesis (548)
+[2022.01.10-16.49.52:820][432]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (546)
+[2022.01.10-16.49.52:820][432]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (544)
+[2022.01.10-16.49.52:820][432]LogModuleManager: Shutting down and abandoning module ScreenshotTools (542)
+[2022.01.10-16.49.52:820][432]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (540)
+[2022.01.10-16.49.52:820][432]LogModuleManager: Shutting down and abandoning module GooglePAD (538)
+[2022.01.10-16.49.52:820][432]LogModuleManager: Shutting down and abandoning module EditableMesh (536)
+[2022.01.10-16.49.52:820][432]LogModuleManager: Shutting down and abandoning module CableComponent (534)
+[2022.01.10-16.49.52:820][432]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (532)
+[2022.01.10-16.49.52:821][432]LogModuleManager: Shutting down and abandoning module AssetTags (530)
+[2022.01.10-16.49.52:821][432]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (528)
+[2022.01.10-16.49.52:821][432]LogModuleManager: Shutting down and abandoning module AudioCapture (526)
+[2022.01.10-16.49.52:821][432]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (525)
+[2022.01.10-16.49.52:821][432]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (522)
+[2022.01.10-16.49.52:821][432]LogModuleManager: Shutting down and abandoning module AppleImageUtils (520)
+[2022.01.10-16.49.52:821][432]LogModuleManager: Shutting down and abandoning module AndroidPermission (518)
+[2022.01.10-16.49.52:821][432]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (516)
+[2022.01.10-16.49.52:821][432]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (514)
+[2022.01.10-16.49.52:821][432]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (512)
+[2022.01.10-16.49.52:821][432]LogModuleManager: Shutting down and abandoning module MotoSynth (510)
+[2022.01.10-16.49.52:821][432]LogModuleManager: Shutting down and abandoning module MeshConversion (508)
+[2022.01.10-16.49.52:821][432]LogModuleManager: Shutting down and abandoning module DynamicMesh (506)
+[2022.01.10-16.49.52:821][432]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (504)
+[2022.01.10-16.49.52:821][432]LogModuleManager: Shutting down and abandoning module GeometricObjects (502)
+[2022.01.10-16.49.52:822][432]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (500)
+[2022.01.10-16.49.52:822][432]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (499)
+[2022.01.10-16.49.52:822][432]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (496)
+[2022.01.10-16.49.52:822][432]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (494)
+[2022.01.10-16.49.52:822][432]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (492)
+[2022.01.10-16.49.52:822][432]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (490)
+[2022.01.10-16.49.52:822][432]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (488)
+[2022.01.10-16.49.52:822][432]LogModuleManager: Shutting down and abandoning module FractureEditor (486)
+[2022.01.10-16.49.52:822][432]LogModuleManager: Shutting down and abandoning module ChaosNiagara (484)
+[2022.01.10-16.49.52:822][432]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (483)
+[2022.01.10-16.49.52:822][432]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (480)
+[2022.01.10-16.49.52:822][432]LogModuleManager: Shutting down and abandoning module BackChannel (478)
+[2022.01.10-16.49.52:822][432]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (476)
+[2022.01.10-16.49.52:822][432]LogModuleManager: Shutting down and abandoning module AutomationUtils (474)
+[2022.01.10-16.49.52:822][432]LogModuleManager: Shutting down and abandoning module AlembicImporter (472)
+[2022.01.10-16.49.52:822][432]LogModuleManager: Shutting down and abandoning module AlembicLibrary (471)
+[2022.01.10-16.49.52:822][432]LogModuleManager: Shutting down and abandoning module GeometryCache (470)
+[2022.01.10-16.49.52:822][432]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (469)
+[2022.01.10-16.49.52:823][432]LogModuleManager: Shutting down and abandoning module TemplateSequence (464)
+[2022.01.10-16.49.52:823][432]LogModuleManager: Shutting down and abandoning module ImgMedia (462)
+[2022.01.10-16.49.52:823][432]LogModuleManager: Shutting down and abandoning module MediaCompositing (460)
+[2022.01.10-16.49.52:823][432]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (458)
+[2022.01.10-16.49.52:823][432]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (456)
+[2022.01.10-16.49.52:823][432]LogModuleManager: Shutting down and abandoning module UObjectPlugin (454)
+[2022.01.10-16.49.52:823][432]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (452)
+[2022.01.10-16.49.52:823][432]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (450)
+[2022.01.10-16.49.52:823][432]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (448)
+[2022.01.10-16.49.52:823][432]LogModuleManager: Shutting down and abandoning module PluginUtils (446)
+[2022.01.10-16.49.52:823][432]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (444)
+[2022.01.10-16.49.52:823][432]LogModuleManager: Shutting down and abandoning module GitSourceControl (442)
+[2022.01.10-16.49.52:823][432]LogModuleManager: Shutting down and abandoning module SourceControl (441)
+[2022.01.10-16.49.52:824][432]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (438)
+[2022.01.10-16.49.52:824][432]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (436)
+[2022.01.10-16.49.52:824][432]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (434)
+[2022.01.10-16.49.52:824][432]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (432)
+[2022.01.10-16.49.52:824][432]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (430)
+[2022.01.10-16.49.52:824][432]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (428)
+[2022.01.10-16.49.52:824][432]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (426)
+[2022.01.10-16.49.52:824][432]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (424)
+[2022.01.10-16.49.52:824][432]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (422)
+[2022.01.10-16.49.52:824][432]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (420)
+[2022.01.10-16.49.52:824][432]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (418)
+[2022.01.10-16.49.52:824][432]LogModuleManager: Shutting down and abandoning module PluginBrowser (416)
+[2022.01.10-16.49.52:825][432]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (414)
+[2022.01.10-16.49.52:825][432]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (412)
+[2022.01.10-16.49.52:825][432]LogModuleManager: Shutting down and abandoning module CurveEditorTools (410)
+[2022.01.10-16.49.52:825][432]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (408)
+[2022.01.10-16.49.52:825][432]LogModuleManager: Shutting down and abandoning module CryptoKeys (406)
+[2022.01.10-16.49.52:825][432]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (404)
+[2022.01.10-16.49.52:825][432]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (402)
+[2022.01.10-16.49.52:825][432]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (400)
+[2022.01.10-16.49.52:825][432]LogModuleManager: Shutting down and abandoning module Paper2DEditor (398)
+[2022.01.10-16.49.52:825][432]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (396)
+[2022.01.10-16.49.52:825][432]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (394)
+[2022.01.10-16.49.52:826][432]LogModuleManager: Shutting down and abandoning module Monstermination (392)
+[2022.01.10-16.49.52:826][432]LogModuleManager: Shutting down and abandoning module SoundFields (390)
+[2022.01.10-16.49.52:826][432]LogModuleManager: Shutting down and abandoning module SignificanceManager (388)
+[2022.01.10-16.49.52:826][432]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (386)
+[2022.01.10-16.49.52:826][432]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (384)
+[2022.01.10-16.49.52:826][432]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (382)
+[2022.01.10-16.49.52:826][432]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (378)
+[2022.01.10-16.49.52:826][432]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (376)
+[2022.01.10-16.49.52:826][432]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (374)
+[2022.01.10-16.49.52:826][432]LogModuleManager: Shutting down and abandoning module UdpMessaging (372)
+[2022.01.10-16.49.52:927][432]LogModuleManager: Shutting down and abandoning module ActorSequence (370)
+[2022.01.10-16.49.52:927][432]LogModuleManager: Shutting down and abandoning module TcpMessaging (368)
+[2022.01.10-16.49.53:027][432]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (366)
+[2022.01.10-16.49.53:027][432]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (364)
+[2022.01.10-16.49.53:027][432]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (362)
+[2022.01.10-16.49.53:027][432]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (360)
+[2022.01.10-16.49.53:027][432]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (358)
+[2022.01.10-16.49.53:027][432]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (356)
+[2022.01.10-16.49.53:027][432]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.01.10-16.49.53:027][432]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (354)
+[2022.01.10-16.49.53:027][432]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (352)
+[2022.01.10-16.49.53:027][432]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (350)
+[2022.01.10-16.49.53:027][432]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (348)
+[2022.01.10-16.49.53:027][432]LogModuleManager: Shutting down and abandoning module MagicLeapController (346)
+[2022.01.10-16.49.53:028][432]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.01.10-16.49.53:028][432]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (344)
+[2022.01.10-16.49.53:028][432]LogModuleManager: Shutting down and abandoning module MagicLeapAR (342)
+[2022.01.10-16.49.53:028][432]LogModuleManager: Shutting down and abandoning module AugmentedReality (341)
+[2022.01.10-16.49.53:028][432]LogModuleManager: Shutting down and abandoning module AnimationSharing (338)
+[2022.01.10-16.49.53:028][432]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (336)
+[2022.01.10-16.49.53:028][432]LogModuleManager: Shutting down and abandoning module Niagara (334)
+[2022.01.10-16.49.53:028][432]LogModuleManager: Shutting down and abandoning module SignalProcessing (333)
+[2022.01.10-16.49.53:028][432]LogModuleManager: Shutting down and abandoning module NiagaraEditor (331)
+[2022.01.10-16.49.53:029][432]LogModuleManager: Shutting down and abandoning module NiagaraCore (328)
+[2022.01.10-16.49.53:029][432]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (326)
+[2022.01.10-16.49.53:029][432]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (324)
+[2022.01.10-16.49.53:029][432]LogModuleManager: Shutting down and abandoning module FacialAnimation (322)
+[2022.01.10-16.49.53:029][432]LogModuleManager: Shutting down and abandoning module DataValidation (320)
+[2022.01.10-16.49.53:030][432]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (318)
+[2022.01.10-16.49.53:030][432]LogModuleManager: Shutting down and abandoning module LevelEditor (317)
+[2022.01.10-16.49.53:032][432]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (316)
+[2022.01.10-16.49.53:032][432]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (314)
+[2022.01.10-16.49.53:033][432]LogModuleManager: Shutting down and abandoning module MainFrame (312)
+[2022.01.10-16.49.53:033][432]LogModuleManager: Shutting down and abandoning module HotReload (311)
+[2022.01.10-16.49.53:034][432]LogModuleManager: Shutting down and abandoning module ToolMenus (307)
+[2022.01.10-16.49.53:034][432]LogModuleManager: Shutting down and abandoning module ContentBrowser (305)
+[2022.01.10-16.49.53:034][432]LogModuleManager: Shutting down and abandoning module ContentBrowserData (304)
+[2022.01.10-16.49.53:034][432]LogModuleManager: Shutting down and abandoning module TreeMap (301)
+[2022.01.10-16.49.53:034][432]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (298)
+[2022.01.10-16.49.53:034][432]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (296)
+[2022.01.10-16.49.53:035][432]LogModuleManager: Shutting down and abandoning module Paper2D (294)
+[2022.01.10-16.49.53:035][432]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (292)
+[2022.01.10-16.49.53:038][432]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (290)
+[2022.01.10-16.49.53:038][432]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (288)
+[2022.01.10-16.49.53:038][432]LogModuleManager: Shutting down and abandoning module PacketHandler (286)
+[2022.01.10-16.49.53:038][432]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (284)
+[2022.01.10-16.49.53:038][432]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (282)
+[2022.01.10-16.49.53:038][432]LogModuleManager: Shutting down and abandoning module MediaAssets (280)
+[2022.01.10-16.49.53:039][432]LogModuleManager: Shutting down and abandoning module Overlay (278)
+[2022.01.10-16.49.53:039][432]LogModuleManager: Shutting down and abandoning module OverlayEditor (277)
+[2022.01.10-16.49.53:039][432]LogModuleManager: Shutting down and abandoning module VREditor (274)
+[2022.01.10-16.49.53:039][432]LogModuleManager: Shutting down and abandoning module StringTableEditor (272)
+[2022.01.10-16.49.53:039][432]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (270)
+[2022.01.10-16.49.53:039][432]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (268)
+[2022.01.10-16.49.53:039][432]LogModuleManager: Shutting down and abandoning module FunctionalTesting (266)
+[2022.01.10-16.49.53:039][432]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (264)
+[2022.01.10-16.49.53:039][432]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (263)
+[2022.01.10-16.49.53:039][432]LogModuleManager: Shutting down and abandoning module UMG (260)
+[2022.01.10-16.49.53:039][432]LogModuleManager: Shutting down and abandoning module UMGEditor (259)
+[2022.01.10-16.49.53:039][432]LogModuleManager: Shutting down and abandoning module MessageLog (257)
+[2022.01.10-16.49.53:039][432]LogModuleManager: Shutting down and abandoning module SlateReflector (252)
+[2022.01.10-16.49.53:040][432]LogModuleManager: Shutting down and abandoning module Slate (250)
+[2022.01.10-16.49.53:040][432]LogModuleManager: Shutting down and abandoning module SlateCore (248)
+[2022.01.10-16.49.53:044][432]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (246)
+[2022.01.10-16.49.53:044][432]LogModuleManager: Shutting down and abandoning module UnrealEd (244)
+[2022.01.10-16.49.53:044][432]LogModuleManager: Shutting down and abandoning module MRMesh (242)
+[2022.01.10-16.49.53:044][432]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (240)
+[2022.01.10-16.49.53:044][432]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (238)
+[2022.01.10-16.49.53:045][432]LogModuleManager: Shutting down and abandoning module XAudio2 (236)
+[2022.01.10-16.49.53:045][432]LogModuleManager: Shutting down and abandoning module Networking (234)
+[2022.01.10-16.49.53:045][432]LogModuleManager: Shutting down and abandoning module Core (232)
+[2022.01.10-16.49.53:045][432]LogModuleManager: Shutting down and abandoning module MaterialEditor (230)
+[2022.01.10-16.49.53:045][432]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2022.01.10-16.49.53:045][432]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2022.01.10-16.49.53:045][432]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2022.01.10-16.49.53:045][432]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2022.01.10-16.49.53:049][432]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2022.01.10-16.49.53:049][432]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2022.01.10-16.49.53:049][432]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2022.01.10-16.49.53:049][432]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2022.01.10-16.49.53:049][432]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2022.01.10-16.49.53:049][432]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2022.01.10-16.49.53:049][432]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2022.01.10-16.49.53:049][432]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2022.01.10-16.49.53:050][432]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2022.01.10-16.49.53:050][432]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2022.01.10-16.49.53:050][432]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2022.01.10-16.49.53:050][432]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2022.01.10-16.49.53:050][432]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2022.01.10-16.49.53:050][432]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2022.01.10-16.49.53:050][432]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2022.01.10-16.49.53:050][432]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2022.01.10-16.49.53:051][432]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2022.01.10-16.49.53:051][432]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2022.01.10-16.49.53:051][432]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (183)
+[2022.01.10-16.49.53:051][432]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (181)
+[2022.01.10-16.49.53:051][432]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (179)
+[2022.01.10-16.49.53:051][432]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (177)
+[2022.01.10-16.49.53:051][432]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (175)
+[2022.01.10-16.49.53:051][432]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (173)
+[2022.01.10-16.49.53:051][432]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2022.01.10-16.49.53:051][432]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (169)
+[2022.01.10-16.49.53:051][432]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (167)
+[2022.01.10-16.49.53:051][432]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (165)
+[2022.01.10-16.49.53:052][432]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (163)
+[2022.01.10-16.49.53:052][432]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (161)
+[2022.01.10-16.49.53:052][432]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (159)
+[2022.01.10-16.49.53:052][432]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (157)
+[2022.01.10-16.49.53:052][432]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (155)
+[2022.01.10-16.49.53:054][432]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (153)
+[2022.01.10-16.49.53:054][432]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (151)
+[2022.01.10-16.49.53:054][432]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (149)
+[2022.01.10-16.49.53:054][432]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (147)
+[2022.01.10-16.49.53:054][432]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (145)
+[2022.01.10-16.49.53:056][432]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (143)
+[2022.01.10-16.49.53:056][432]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (141)
+[2022.01.10-16.49.53:056][432]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (139)
+[2022.01.10-16.49.53:056][432]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (137)
+[2022.01.10-16.49.53:056][432]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (135)
+[2022.01.10-16.49.53:056][432]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (133)
+[2022.01.10-16.49.53:056][432]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2022.01.10-16.49.53:056][432]LogModuleManager: Shutting down and abandoning module Messaging (129)
+[2022.01.10-16.49.53:056][432]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (127)
+[2022.01.10-16.49.53:057][432]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (125)
+[2022.01.10-16.49.53:062][432]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (123)
+[2022.01.10-16.49.53:062][432]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2022.01.10-16.49.53:062][432]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2022.01.10-16.49.53:062][432]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (116)
+[2022.01.10-16.49.53:062][432]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2022.01.10-16.49.53:062][432]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2022.01.10-16.49.53:062][432]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2022.01.10-16.49.53:063][432]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2022.01.10-16.49.53:063][432]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2022.01.10-16.49.53:063][432]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2022.01.10-16.49.53:063][432]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2022.01.10-16.49.53:063][432]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2022.01.10-16.49.53:063][432]LogHMD: Freeing OpenVRDLLHandle.
+[2022.01.10-16.49.53:063][432]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2022.01.10-16.49.53:063][432]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2022.01.10-16.49.53:063][432]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2022.01.10-16.49.53:063][432]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.01.10-16.49.53:063][432]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.01.10-16.49.53:064][432]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.01.10-16.49.53:064][432]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.01.10-16.49.53:081][432]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.01.10-16.49.53:081][432]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.01.10-16.49.53:081][432]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA0EAC6D8-45E6-B015-A1DD-8B8AADE57F56%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=612d77d041e7bb2d363199af398209ed%7C68044d43de424a5f9361b7411753b70b%7Ccb22270c-0d1b-4213-80e6-b7566c5fbf3a&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.01.10-16.49.53:081][432]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.01.10-16.49.53:087][432]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.01.10-16.49.53:088][432]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2022.01.10-16.49.53:088][432]LogModuleManager: Shutting down and abandoning module ChaosCloth (72)
+[2022.01.10-16.49.53:088][432]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2022.01.10-16.49.53:090][432]LogModuleManager: Shutting down and abandoning module Media (69)
+[2022.01.10-16.49.53:092][432]LogModuleManager: Shutting down and abandoning module MediaInfo (68)
+[2022.01.10-16.49.53:092][432]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (64)
+[2022.01.10-16.49.53:092][432]LogModuleManager: Shutting down and abandoning module MLSDK (62)
+[2022.01.10-16.49.53:092][432]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2022.01.10-16.49.53:092][432]LogModuleManager: Shutting down and abandoning module VariantManagerContent (58)
+[2022.01.10-16.49.53:092][432]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2022.01.10-16.49.53:092][432]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2022.01.10-16.49.53:092][432]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2022.01.10-16.49.53:092][432]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.01.10-16.49.53:092][432]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.01.10-16.49.53:092][432]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2022.01.10-16.49.53:092][432]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2022.01.10-16.49.53:092][432]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2022.01.10-16.49.53:092][432]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2022.01.10-16.49.53:092][432]LogXGEController: Cleaning working directory: C:/Users/juan.laurino/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.01.10-16.49.53:092][432]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.01.10-16.49.53:092][432]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.01.10-16.49.53:093][432]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.01.10-16.49.53:093][432]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.01.10-16.49.53:093][432]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.01.10-16.49.53:093][432]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.01.10-16.49.53:093][432]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.01.10-16.49.53:095][432]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.01.10-16.49.53:095][432]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.01.10-16.49.53:095][432]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.01.10-16.49.53:095][432]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.01.10-16.49.53:095][432]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.01.10-16.49.53:095][432]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.01.10-16.49.53:095][432]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.01.10-16.49.53:095][432]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.01.10-16.49.53:095][432]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.01.10-16.49.53:095][432]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.01.10-16.49.53:095][432]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.01.10-16.49.53:095][432]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.01.10-16.49.53:095][432]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.01.10-16.49.53:098][432]LogD3D11RHI: Shutdown
+[2022.01.10-16.49.53:098][432]LogD3D11RHI: CleanupD3DDevice
+[2022.01.10-16.49.53:115][432]LogExit: Exiting.
+[2022.01.10-16.49.53:136][432]Log file closed, 01/10/22 17:49:53
