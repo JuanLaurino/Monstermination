@@ -1,13 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "4.26",
-	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "Monstermination",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bb3378c44113aa11d20dc7f0e2dc596248dee6e8dd0ad23922d8ed2105f6902
+size 207
