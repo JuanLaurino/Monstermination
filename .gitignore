@@ -70,10 +70,3 @@ Saved/*
 Intermediate/*
 Plugins/*/Intermediate/*
 
-# Cache files for the editor to use
-DerivedDataCache/*
-Monstermination/Saved/Config/CrashReportClient/UE4CC-Windows-0317200546C295A5E08BE598A1BFFA57/CrashReportClient.ini
-*.ini
-*.ini
-*.ini
-*.png
