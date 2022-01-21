@@ -1,2 +1,0 @@
-D:\monstermination2\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Definitions.Monstermination.h
-D:\monstermination2\Monstermination\Monstermination\Source\Monstermination\Monstermination.h
