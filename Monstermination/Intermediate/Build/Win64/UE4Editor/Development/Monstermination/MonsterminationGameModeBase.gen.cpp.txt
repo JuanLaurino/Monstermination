@@ -1,9 +1,9 @@
-D:\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Definitions.Monstermination.h
-D:\juegos alv\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\juegos alv\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Monstermination\Monstermination\Source\Monstermination/MonsterminationGameModeBase.h
-D:\juegos alv\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-D:\juegos alv\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-D:\juegos alv\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-D:\juegos alv\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-D:\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Inc\Monstermination\MonsterminationGameModeBase.generated.h
+D:\monstermination2\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Development\Monstermination\Definitions.Monstermination.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\monstermination2\Monstermination\Monstermination\Source\Monstermination/MonsterminationGameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\monstermination2\Monstermination\Monstermination\Intermediate\Build\Win64\UE4Editor\Inc\Monstermination\MonsterminationGameModeBase.generated.h
